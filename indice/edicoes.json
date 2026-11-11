@@ -1,0 +1,67 @@
+{
+ "edicoes": [
+  {
+   "data": "2026-11-10",
+   "data_br": "10/11/2026",
+   "gerado_em": "11/11/2026 08:30",
+   "arquivo": "Resumo Executivo PMP 2026-11-10.html",
+   "destaques": [
+    "Diário Oficial: Nº 1481 (Normal) — 19 atos (1 nomeado / contratado, 5 designações / comissões, 3 outros atos).",
+    "Receitas: sem movimento em 10/11/2026; último dia (09/11/2026): R$ 562.366,98.",
+    "Empenhado: R$ 46.885,22."
+   ],
+   "metricas": {
+    "receitas": 0.0,
+    "empenhado": 46885.22,
+    "liquidado": 750730.14,
+    "pago": 7200.0,
+    "anulacoes": 0.0,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 19
+   }
+  },
+  {
+   "data": "2026-11-09",
+   "data_br": "09/11/2026",
+   "gerado_em": "10/11/2026 10:41",
+   "arquivo": "Resumo Executivo PMP 2026-11-09.html",
+   "destaques": [
+    "Diário Oficial: Nº 1479 (Normal) · Nº 1480 (Extra) — 9 atos (1 exonerado, 1 nomeado / contratado, 1 designação / comissão) — EDIÇÃO EXTRA (Nº 1480).",
+    "Receitas: sem movimento em 09/11/2026; último dia (06/11/2026): R$ 2.156,42.",
+    "Empenhado: R$ 64.802,07."
+   ],
+   "metricas": {
+    "receitas": 0.0,
+    "empenhado": 64802.07,
+    "liquidado": 7382310.81,
+    "pago": 0.0,
+    "anulacoes": 0.0,
+    "emendas_valor": 303632.6,
+    "emendas_qtd": 1,
+    "diario_atos": 9
+   }
+  },
+  {
+   "data": "2026-11-06",
+   "data_br": "06/11/2026",
+   "gerado_em": "09/11/2026 12:12",
+   "arquivo": "Resumo Executivo PMP 2026-11-06.html",
+   "destaques": [
+    "Diário Oficial: Nº 1478 (Normal) — 13 atos (2 exonerados, 1 nomeado / contratado, 1 designação / comissão, 8 outros atos).",
+    "Receitas: sem movimento em 06/11/2026; último dia (04/11/2026): R$ 1.645,28.",
+    "Empenhado: R$ 13.100,00."
+   ],
+   "metricas": {
+    "receitas": 0.0,
+    "empenhado": 13100.0,
+    "liquidado": 309025.48,
+    "pago": 0.0,
+    "anulacoes": 0.0,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 13
+   }
+  }
+ ]
+}

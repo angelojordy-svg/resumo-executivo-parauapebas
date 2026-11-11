@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edições — Resumo Executivo PMP</title>
+<style>
+:root{
+  --bg:#f4f6fa; --paper:#ffffff; --paper2:#f8fafc;
+  --ink:#0f172a; --muted:#64748b; --line:#e2e8f0; --slate:#475569;
+  --blue:#2563eb; --green:#059669; --amber:#d97706; --red:#dc2626;
+  --violet:#7c3aed; --cyan:#0891b2;
+  --shadow:0 10px 30px rgba(15,23,42,.08);
+  --r:16px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{
+  background:linear-gradient(180deg,#f8fafc 0%,var(--bg) 40%,#eef2f8 100%);
+  color:var(--ink);font:14.5px/1.55 "Segoe UI",system-ui,-apple-system,sans-serif;
+  padding:28px 18px 56px;
+}
+.wrap{max-width:1220px;margin:0 auto}
+header.top{
+  background:var(--paper);border:1px solid var(--line);border-radius:calc(var(--r) + 6px);
+  padding:22px 24px;box-shadow:var(--shadow);display:flex;justify-content:space-between;
+  gap:18px;align-items:flex-start;flex-wrap:wrap;margin-bottom:26px;
+  position:relative;overflow:hidden;
+}
+header.top::before{
+  content:"";position:absolute;inset:0 0 auto;height:4px;
+  background:linear-gradient(90deg,var(--blue),var(--cyan),var(--violet));
+}
+.brand{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--blue);font-weight:800}
+h1{margin:6px 0 6px;font-size:34px;line-height:1.1;letter-spacing:-.02em;color:#0b1220}
+.sub{color:var(--muted);font-size:13.5px;max-width:720px}
+.meta{display:flex;flex-wrap:wrap;gap:7px;justify-content:flex-end}
+.badge{font-size:11px;border:1px solid var(--line);border-radius:999px;padding:5px 10px;color:var(--slate);background:var(--paper2);white-space:nowrap}
+.badge b{color:var(--ink)}
+.badge.ok{border-color:#bbf7d0;background:#f0fdf4;color:#15803d}
+.badge.warn{border-color:#fde68a;background:#fffbeb;color:#b45309}
+.badge.bad{border-color:#fecaca;background:#fef2f2;color:#b91c1c}
+.badge.extra{border-color:#ddd6fe;background:#f5f3ff;color:#6d28d9}
+
+.bloco{margin:0 0 30px}
+.bloco-head{display:flex;flex-direction:column;gap:2px;margin:0 0 12px;padding-bottom:8px;border-bottom:2px solid var(--line)}
+.kicker{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:800}
+.bloco-head h2{margin:0;font-size:20px;letter-spacing:-.01em;color:#0b1220}
+
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin:0 0 14px}
+.kpi{background:var(--paper);border:1px solid var(--line);border-top:4px solid var(--line);border-radius:var(--r);padding:14px 16px;box-shadow:var(--shadow)}
+.kpi strong{display:block;font-size:22px;line-height:1.1;letter-spacing:-.01em;color:#0b1220}
+.kpi span{display:block;color:var(--muted);font-size:11.5px;margin-top:4px}
+.kpi small{display:block;color:var(--slate);font-size:11px;margin-top:6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.kpi.cyan{border-top-color:var(--cyan)} .kpi.green{border-top-color:var(--green)}
+.kpi.amber{border-top-color:var(--amber)} .kpi.red{border-top-color:var(--red)}
+.kpi.violet{border-top-color:var(--violet)} .kpi.blue{border-top-color:var(--blue)}
+
+.grid{display:grid;gap:14px}
+.grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.grid-duo{grid-template-columns:1.35fr 1fr}
+.card,.panel{background:var(--paper);border:1px solid var(--line);border-radius:var(--r);padding:18px 18px 16px;box-shadow:var(--shadow);min-width:0}
+.card.full{grid-column:1 / -1}
+.card h2,.panel h2{margin:0 0 4px;font-size:16px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;color:#0b1220}
+.card h2 .tag{font-size:10px;font-weight:700;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:2px 8px;background:var(--paper2)}
+.card .hint,.panel .hint{color:var(--muted);font-size:12px;margin:0 0 10px}
+.card .hint b,.panel .hint b{color:var(--slate)}
+
+.tablewrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th,td{padding:8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{color:var(--muted);font-weight:700;font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;background:var(--paper2)}
+td.num,th.num{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+tbody tr:nth-child(even){background:#fbfcfe}
+tbody tr:hover{background:#eef4ff}
+tr:last-child td{border-bottom:none}
+.pos{color:#047857;font-weight:600} .neg{color:#b91c1c;font-weight:600} .muted{color:var(--muted)}
+.empty{color:var(--muted);font-size:12.5px;padding:10px 0}
+ul.lista{margin:6px 0 0;padding-left:18px;font-size:13px;color:#334155}
+ul.lista li{margin:5px 0}
+
+.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chip{display:inline-flex;align-items:center;gap:4px;font-size:10.5px;font-weight:700;border-radius:999px;padding:3px 8px;border:1px solid var(--line);background:var(--paper2);color:var(--slate);white-space:nowrap}
+.chip.orgao{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.lotacao{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.funcao{background:#ecfeff;border-color:#a5f3fc;color:#0e7490}
+.chip.ato{background:#f8fafc;border-color:#cbd5e1;color:#475569}
+.chip.exonerado,.chip.destituido,.chip.nao{background:#fef2f2;border-color:#fecaca;color:#b91c1c}
+.chip.nomeado{background:#f0fdf4;border-color:#bbf7d0;color:#15803d}
+.chip.atribuicao{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.designacao{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.prorrogacao{background:#ecfeff;border-color:#a5f3fc;color:#0e7490}
+.chip.revogacao,.chip.outro{background:#f1f5f9;border-color:#cbd5e1;color:#475569}
+.chip.normal{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.extra{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.saaep{background:#fffbeb;border-color:#fde68a;color:#b45309}
+.chip.pref{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.cam{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.pill{display:inline-block;font-size:10px;font-weight:700;border-radius:999px;padding:2px 7px;border:1px solid currentColor;white-space:nowrap}
+
+.diario-top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap;margin-bottom:10px}
+.edicao{font-size:13px;color:var(--slate)}
+.edicao b{color:#0b1220}
+.edicao span{display:block;color:var(--muted);font-size:11.5px;margin-top:2px}
+.alerta{background:#fffbeb;border:1px solid #fde68a;border-left:4px solid var(--amber);border-radius:12px;padding:10px 12px;margin:0 0 12px;color:#92400e;font-size:12.5px}
+.alerta-extra{background:#f5f3ff;border:1px solid #ddd6fe;border-left:4px solid var(--violet);border-radius:12px;padding:10px 12px;margin:0 0 12px;color:#5b21b6;font-size:12.5px}
+.alerta-extra b{letter-spacing:.06em}
+.diario-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
+.grupo{border:1px solid var(--line);border-top:4px solid var(--line);border-radius:14px;background:var(--paper);overflow:hidden}
+.grupo.exonerado{border-top-color:var(--red)} .grupo.nomeado{border-top-color:var(--green)}
+.grupo.atribuicao{border-top-color:var(--blue)} .grupo.designacao{border-top-color:var(--violet)}
+.grupo.destituido{border-top-color:var(--red)} .grupo.prorrogacao{border-top-color:var(--cyan)}
+.grupo.revogacao{border-top-color:var(--slate)} .grupo.outro{border-top-color:#94a3b8}
+.grupo-head{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 12px;background:var(--paper2);border-bottom:1px solid var(--line)}
+.grupo-nome{font-size:12.5px;font-weight:800;letter-spacing:.02em;color:#0b1220}
+.grupo-qtd{font-size:11px;font-weight:800;color:var(--muted);background:#fff;border:1px solid var(--line);border-radius:999px;padding:2px 8px}
+.grupo-itens{padding:4px 12px 8px}
+.pessoa{padding:9px 0;border-bottom:1px dashed var(--line)}
+.pessoa:last-child{border-bottom:none}
+.pessoa-nome{font-size:13px;font-weight:800;color:#0b1220}
+.pessoa-cargo{font-size:12px;color:var(--slate);margin-top:1px}
+.pessoa .chips{margin-top:5px}
+.pessoa-obs{font-size:10.5px;color:var(--muted);margin-top:4px}
+.mais{font-size:11px;color:var(--muted);padding:6px 12px 10px}
+.sub-card{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-top:12px;background:var(--paper2)}
+.sub-card h3{margin:0 0 6px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.outros-lista{display:grid;grid-template-columns:1fr;gap:6px}
+.outro-item{display:flex;gap:8px;align-items:flex-start;font-size:12px;color:#334155}
+.outro-num{font-weight:800;color:#0b1220;white-space:nowrap}
+
+.aviso{background:#fffbeb;border:1px solid #fde68a;border-left:4px solid var(--amber);border-radius:12px;padding:12px 14px;color:#92400e;font-size:12.5px;margin:0 0 22px}
+.aviso ul{margin:6px 0 0;padding-left:18px}
+footer{margin-top:30px;border-top:1px solid var(--line);padding-top:14px;color:var(--muted);font-size:11.5px;display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
+footer a{color:var(--blue)}
+a{color:var(--blue);text-decoration:none}
+a:hover{text-decoration:underline}
+.small{font-size:11.5px;color:var(--muted)}
+code{background:var(--paper2);border:1px solid var(--line);border-radius:6px;padding:1px 5px;font-size:11px}
+
+.edicoes-nav{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px 12px;box-shadow:var(--shadow);margin:0 0 18px}
+.edicoes-nav-links,.edicoes-nav-extra{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.btn-nav{font-size:11.5px;font-weight:800;border:1px solid var(--line);border-radius:9px;padding:6px 9px;background:var(--paper2);color:var(--ink);white-space:nowrap}
+.btn-nav:hover{border-color:var(--blue);color:var(--blue)}
+.btn-nav.off{color:var(--muted);background:transparent;cursor:default;pointer-events:none}
+.edicoes-atual{font-size:12px;color:var(--muted);white-space:nowrap}
+.edicoes-atual b{color:var(--ink)}
+.edicoes-nav select{max-width:260px;border:1px solid var(--line);border-radius:9px;padding:6px 9px;background:var(--paper);color:var(--ink);font:inherit;font-size:12px;outline:none}
+.filtros{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;align-items:end;margin:0 0 10px}
+.filtro{display:flex;flex-direction:column;gap:4px;font-size:10.5px;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.filtro input,.filtro select{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--paper);color:var(--ink);font:inherit;text-transform:none;letter-spacing:0;outline:none}
+.filtro input:focus,.filtro select:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(37,99,235,.12)}
+.btn{border:1px solid var(--line);border-radius:10px;padding:9px 12px;background:var(--paper2);color:var(--ink);font:inherit;font-weight:800;cursor:pointer}
+.btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+.btn:hover{filter:brightness(.97)}
+.resultados{display:grid;gap:8px;margin:10px 0}
+.resultado{border:1px solid var(--line);border-left:4px solid var(--blue);border-radius:12px;padding:10px 12px;background:var(--paper2)}
+.resultado-top{display:flex;justify-content:space-between;gap:8px;align-items:center;margin-bottom:2px}
+.resultado-nome{font-weight:800;color:#0b1220}
+.destaques{font-size:11.5px;color:var(--slate)}
+.destaques div{margin:1px 0}
+.chip.pessoa{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.credor,.chip.pagamento{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.rubrica{background:#ecfeff;border-color:#a5f3fc;color:#0e7490}
+.chip.emenda{background:#f0fdf4;border-color:#bbf7d0;color:#15803d}
+.chip.anulacao{background:#fef2f2;border-color:#fecaca;color:#b91c1c}
+.chip.decreto{background:#f1f5f9;border-color:#cbd5e1;color:#475569}
+
+@media(max-width:900px){
+  .grid-2,.grid-duo,.diario-grid{grid-template-columns:1fr}
+  header.top{flex-direction:column}
+  .meta{justify-content:flex-start}
+  h1{font-size:26px}
+}
+@media print{
+  body{background:#fff;color:#000;padding:0}
+  header.top,.card,.panel,.kpi,.grupo,.sub-card,.aviso{box-shadow:none;background:#fff;border-color:#ccc}
+  header.top::before{display:none}
+  .card,.panel,.grupo,.sub-card{break-inside:avoid}
+  .badge,.chip{border-color:#999;color:#333;background:#fff}
+  .pos,.neg,.muted,.hint,.small,.pessoa-cargo,footer{color:#444}
+  a{color:#000}
+  .no-print{display:none}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="brand">Parauapebas · Executivo</div>
+      <h1>Edições — Resumo Executivo PMP</h1>
+      <div class="sub">Histórico de edições e busca por data, nome e termo</div>
+    </div>
+    <div class="meta"><span class="badge ">3 edição(ões)</span><span class="badge ">Atualizado em 11/11/2026 08:30</span><span class="badge "><a href="index.html" target="_blank" rel="noopener">Abrir última edição</a></span></div>
+  </header>
+  
+    <section class="bloco">
+      <div class="bloco-head"><span class="kicker">Histórico</span><h2>Edições do Resumo Executivo</h2></div>
+      <div class="panel">
+        <div class="filtros">
+          <label class="filtro">Data de referência<input type="date" id="fdata"></label>
+          <label class="filtro">Mês<select id="fmes"><option value="">Todos</option><option value="2026-11">11/2026</option></select></label>
+          <label class="filtro">Buscar<input type="search" id="q" placeholder="Nome, credor, rubrica, emenda..."></label>
+          <button class="btn primary" id="btodos" type="button">Buscar em todos os meses</button>
+        </div>
+        <p class="small" id="status">Selecione um mês para buscar por nome/termo ou clique em “Buscar em todos os meses”.</p>
+        <div id="resultados"></div>
+        <h2 style="margin-top:16px">Lista de edições</h2>
+        <div class="tablewrap"><table id="tabela-edicoes">
+          <thead><tr><th>Referência</th><th>Gerado em</th><th>Destaques</th><th class="num">Abrir</th></tr></thead>
+          <tbody><tr data-data="2026-11-10" data-mes="2026-11"><td><b>10/11/2026</b></td><td>11/11/2026 08:30</td><td class="destaques"><div>Diário Oficial: Nº 1481 (Normal) — 19 atos (1 nomeado / contratado, 5 designações / comissões, 3 outros atos).</div><div>Receitas: sem movimento em 10/11/2026; último dia (09/11/2026): R$ 562.366,98.</div></td><td class="num"><a href="Resumo Executivo PMP 2026-11-10.html" target="_blank" rel="noopener">Abrir</a></td></tr><tr data-data="2026-11-09" data-mes="2026-11"><td><b>09/11/2026</b></td><td>10/11/2026 10:41</td><td class="destaques"><div>Diário Oficial: Nº 1479 (Normal) · Nº 1480 (Extra) — 9 atos (1 exonerado, 1 nomeado / contratado, 1 designação / comissão) — EDIÇÃO EXTRA (Nº 1480).</div><div>Receitas: sem movimento em 09/11/2026; último dia (06/11/2026): R$ 2.156,42.</div></td><td class="num"><a href="Resumo Executivo PMP 2026-11-09.html" target="_blank" rel="noopener">Abrir</a></td></tr><tr data-data="2026-11-06" data-mes="2026-11"><td><b>06/11/2026</b></td><td>09/11/2026 12:12</td><td class="destaques"><div>Diário Oficial: Nº 1478 (Normal) — 13 atos (2 exonerados, 1 nomeado / contratado, 1 designação / comissão, 8 outros atos).</div><div>Receitas: sem movimento em 06/11/2026; último dia (04/11/2026): R$ 1.645,28.</div></td><td class="num"><a href="Resumo Executivo PMP 2026-11-06.html" target="_blank" rel="noopener">Abrir</a></td></tr></tbody>
+        </table></div>
+      </div>
+    </section>
+    <script>
+    window.MESES = ["2026-11"];
+    const $ = (id) => document.getElementById(id);
+    const norm = (s) => (s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+    const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+    const carregados = new Set();
+    function carregarMes(mes) {
+      return new Promise((resolve) => {
+        if (!mes || carregados.has(mes)) return resolve();
+        const s = document.createElement("script");
+        s.src = "indice/busca_" + mes + ".js";
+        s.onload = () => { carregados.add(mes); resolve(); };
+        s.onerror = () => { carregados.add(mes); resolve(); };
+        document.head.appendChild(s);
+      });
+    }
+    function filtrarLista() {
+      const data = $("fdata").value;
+      const mes = $("fmes").value;
+      document.querySelectorAll("#tabela-edicoes tbody tr[data-data]").forEach((tr) => {
+        const okData = !data || tr.dataset.data === data;
+        const okMes = !mes || tr.dataset.mes === mes;
+        tr.style.display = (okData && okMes) ? "" : "none";
+      });
+    }
+    function resultados(itens) {
+      const box = $("resultados");
+      if (!itens.length) { box.innerHTML = '<div class="empty">Nenhum resultado.</div>'; return; }
+      box.innerHTML = '<div class="resultados">' + itens.map((e) =>
+        '<div class="resultado"><div class="resultado-top"><span class="chip ' + esc(e.tipo) + '">' + esc(e.tipo) + '</span><span class="small">' + esc(e.data) + '</span></div>' +
+        '<div class="resultado-nome">' + esc(e.rotulo) + '</div>' +
+        '<div class="small">' + esc(e.detalhe) + '</div>' +
+        '<a href="' + encodeURI(e.arquivo) + '#' + encodeURIComponent(e.ancora) + '">Abrir na edição</a></div>'
+      ).join('') + '</div>';
+    }
+    function coletar(meses) {
+      const out = [];
+      const base = window.RESUMO_BUSCA || {};
+      meses.forEach((m) => out.push.apply(out, base[m] || []));
+      return out;
+    }
+    let buscandoTodos = false;
+    async function buscar() {
+      const termo = norm($("q").value);
+      const mes = $("fmes").value;
+      if (!termo) { $("resultados").innerHTML = ""; $("status").textContent = "Digite um nome ou termo para buscar."; return; }
+      let meses = mes ? [mes] : [];
+      if (!mes) {
+        if (!buscandoTodos) { $("status").textContent = "Selecione um mês ou clique em “Buscar em todos os meses”."; return; }
+        meses = window.MESES || [];
+      }
+      $("status").textContent = "Carregando índice...";
+      await Promise.all(meses.map(carregarMes));
+      const itens = coletar(meses).filter((e) => (e.texto || "").includes(termo));
+      $("status").textContent = itens.length + " resultado(s) em " + (mes || "todos os meses") + ".";
+      resultados(itens);
+    }
+    $("btodos").addEventListener("click", () => { buscandoTodos = true; buscar(); });
+    $("q").addEventListener("input", () => { if ($("fmes").value) buscar(); });
+    $("fmes").addEventListener("change", () => { filtrarLista(); if ($("q").value) buscar(); });
+    $("fdata").addEventListener("change", filtrarLista);
+    filtrarLista();
+    </script>
+    
+  <footer><span>Busca por data e por nome/termo nas edições do Resumo Executivo. Índices mensais carregados sob demanda; sem rede.</span><span>Gerado em 11/11/2026 08:30</span></footer>
+</div>
+</body>
+</html>
