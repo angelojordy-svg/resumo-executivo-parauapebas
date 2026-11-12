@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-11",
+   "data_br": "11/11/2026",
+   "gerado_em": "12/11/2026 08:10",
+   "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+   "destaques": [
+    "Diário Oficial: Nº 1482 (Normal) · Nº 1483 (Extra) — 56 atos (4 exonerados, 5 nomeados / contratados, 2 atribuições, 5 designações / comissões, 1 destituído, 27 outros atos) — EDIÇÃO EXTRA (Nº 1483).",
+    "Receitas: R$ 22.283.515,95 (maior: Imposto sobre Serviços de Qualquer Natureza - PJ na Fonte — R$ 19.122.953,42).",
+    "Empenhado: R$ 280.171,12."
+   ],
+   "metricas": {
+    "receitas": 22283515.95,
+    "empenhado": 280171.12,
+    "liquidado": 108327.05,
+    "pago": 0.0,
+    "anulacoes": 0.0,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 56
+   }
+  },
+  {
    "data": "2026-11-10",
    "data_br": "10/11/2026",
    "gerado_em": "11/11/2026 08:30",

@@ -754,5 +754,482 @@
   "detalhe": "Assessor Parlamentar V; Gestora do Contrato Administrativo nº 20269024; provimento efetivo de Artífice de Manutenção; Fiscal do Contrato Adm · CMP · Gabinete do Vereador Anderson Marcos Moratorio · PORTARIA 506/2026",
   "arquivo": "Resumo Executivo PMP 2026-11-10.html",
   "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "up distribuidora comercio de equipamentos hospitalares ltda empenhado · r$ 106.292,00 · prefeitura",
+  "rotulo": "UP DISTRIBUIDORA COMERCIO DE EQUIPAMENTOS HOSPITALARES LTDA",
+  "detalhe": "Empenhado · R$ 106.292,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "nativu s ltda empenhado · r$ 49.223,36 · prefeitura",
+  "rotulo": "NATIVU S LTDA",
+  "detalhe": "Empenhado · R$ 49.223,36 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "args distribuidora de equipamentos eletro-eletronicos ltda empenhado · r$ 38.220,00 · prefeitura",
+  "rotulo": "ARGS DISTRIBUIDORA DE EQUIPAMENTOS ELETRO-ELETRÔNICOS LTDA",
+  "detalhe": "Empenhado · R$ 38.220,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "centerdata analises de sistemas e serv. de informatica ltda empenhado · r$ 36.800,00 · prefeitura",
+  "rotulo": "CENTERDATA ANÁLISES DE SISTEMAS E SERV. DE INFORMATICA LTDA",
+  "detalhe": "Empenhado · R$ 36.800,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "fernandes, milech, barbosa de oliveira e advogados associado empenhado · r$ 24.696,76 · prefeitura",
+  "rotulo": "FERNANDES, MILECH, BARBOSA DE OLIVEIRA E ADVOGADOS ASSOCIADO",
+  "detalhe": "Empenhado · R$ 24.696,76 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "wc viagens e turismo ltda liquidado · r$ 51.873,44 · camara",
+  "rotulo": "WC VIAGENS E TURISMO LTDA",
+  "detalhe": "Liquidado · R$ 51.873,44 · Câmara",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "fernandes, milech, barbosa de oliveira e advogados associado liquidado · r$ 24.696,76 · prefeitura",
+  "rotulo": "FERNANDES, MILECH, BARBOSA DE OLIVEIRA E ADVOGADOS ASSOCIADO",
+  "detalhe": "Liquidado · R$ 24.696,76 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "esse chemical - distribuidora de produtos de limpeza ltda liquidado · r$ 15.072,85 · prefeitura",
+  "rotulo": "ESSE CHEMICAL - DISTRIBUIDORA DE PRODUTOS DE LIMPEZA LTDA",
+  "detalhe": "Liquidado · R$ 15.072,85 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "jucileia de sousa santos liquidado · r$ 6.884,00 · prefeitura",
+  "rotulo": "JUCILEIA DE SOUSA SANTOS",
+  "detalhe": "Liquidado · R$ 6.884,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "credor",
+  "texto": "dorilene carvalho de araujo liquidado · r$ 5.000,00 · prefeitura",
+  "rotulo": "DORILENE CARVALHO DE ARAUJO",
+  "detalhe": "Liquidado · R$ 5.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "decreto",
+  "texto": "decreto 1870 dispoe sobre as diretrizes para a implementacao da politica nacional de equidade, educacao para as relacoes etnico-raciais e educacao escolar quilombola – pneerq no ambito da rede",
+  "rotulo": "DECRETO 1870",
+  "detalhe": "Dispõe sobre as diretrizes para a implementação da Política Nacional de Equidade, Educação para as Relações Étnico-Raciais e Educação Escolar Quilombola – PNEERQ no âmbito da rede",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "decreto",
+  "texto": "decreto 1893 dispoe sobre nomeacao para cargo comissionado",
+  "rotulo": "DECRETO 1893",
+  "detalhe": "Dispõe sobre nomeação para cargo comissionado",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "decreto",
+  "texto": "decreto 1871 altera o decreto nº 4323, de 18 de dezembro de 2025, que nomeia membros para compor o conselho gestor do fundo municipal de habitacao de interesse social de parauapebas-para – cgfm",
+  "rotulo": "DECRETO 1871",
+  "detalhe": "Altera o Decreto nº 4323, de 18 de dezembro de 2025, que nomeia membros para compor o Conselho Gestor do Fundo Municipal de Habitação de Interesse Social de Parauapebas-Pará – CGFM",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "decreto",
+  "texto": "decreto 1887 exonera servidor de cargo comissionado",
+  "rotulo": "DECRETO 1887",
+  "detalhe": "Exonera servidor de cargo comissionado",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "decreto",
+  "texto": "decreto 1888 dispoe sobre nomeacao para cargo comissionado",
+  "rotulo": "DECRETO 1888",
+  "detalhe": "Dispõe sobre nomeação para cargo comissionado",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1736/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1736/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1737/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1737/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1738/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1738/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1739/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1739/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1740/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1740/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1745/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1745/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1746/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1746/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "outro",
+  "texto": "portaria 1747/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1747/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "romulo lopes da silva pago (tesouraria) · r$ 3.000,00 · prefeitura",
+  "rotulo": "ROMULO LOPES DA SILVA",
+  "detalhe": "Pago (Tesouraria) · R$ 3.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "aluguel social - lajeado ii pago (tesouraria) · r$ 2.400,00 · prefeitura",
+  "rotulo": "ALUGUEL SOCIAL - LAJEADO II",
+  "detalhe": "Pago (Tesouraria) · R$ 2.400,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "aluguel social - vale do lajeado pago (tesouraria) · r$ 1.800,00 · prefeitura",
+  "rotulo": "ALUGUEL SOCIAL - VALE DO LAJEADO",
+  "detalhe": "Pago (Tesouraria) · R$ 1.800,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "aluguel social - lajeado iii pago (tesouraria) · r$ 1.200,00 · prefeitura",
+  "rotulo": "ALUGUEL SOCIAL - LAJEADO III",
+  "detalhe": "Pago (Tesouraria) · R$ 1.200,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "aluguel social - lajeado iv pago (tesouraria) · r$ 1.200,00 · prefeitura",
+  "rotulo": "ALUGUEL SOCIAL - LAJEADO IV",
+  "detalhe": "Pago (Tesouraria) · R$ 1.200,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "banco do brasil s/a pago (tesouraria) · r$ 1.044,77 · prefeitura",
+  "rotulo": "BANCO DO BRASIL S/A",
+  "detalhe": "Pago (Tesouraria) · R$ 1.044,77 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "fernanda morais de souza costa pago (tesouraria) · r$ 1.000,00 · prefeitura",
+  "rotulo": "FERNANDA MORAIS DE SOUZA COSTA",
+  "detalhe": "Pago (Tesouraria) · R$ 1.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pagamento",
+  "texto": "samuel de sousa moraes pago (tesouraria) · r$ 1.000,00 · prefeitura",
+  "rotulo": "SAMUEL DE SOUSA MORAES",
+  "detalhe": "Pago (Tesouraria) · R$ 1.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "manoel evangelista gomes de sousa vice-diretor de escola · pmp · semed · decreto 1887",
+  "rotulo": "Manoel Evangelista Gomes de Sousa",
+  "detalhe": "Vice-Diretor de Escola · PMP · SEMED · DECRETO 1887",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "paulo pereira assessor especial vii · pmp · sempror · decreto 1895",
+  "rotulo": "Paulo Pereira",
+  "detalhe": "Assessor Especial VII · PMP · SEMPROR · DECRETO 1895",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "paloma acacio sousa silva assessor especial vii · pmp · sempror · decreto 1896",
+  "rotulo": "Paloma Acacio Sousa Silva",
+  "detalhe": "Assessor Especial VII · PMP · SEMPROR · DECRETO 1896",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "joao ribeiro da cruz assessor especial vii · pmp · sempror · decreto 1897",
+  "rotulo": "João Ribeiro da Cruz",
+  "detalhe": "Assessor Especial VII · PMP · SEMPROR · DECRETO 1897",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "joao assi ouvidor municipal · pmp · ouvidoria · decreto 1893",
+  "rotulo": "João Assi",
+  "detalhe": "Ouvidor Municipal · PMP · Ouvidoria · DECRETO 1893",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "manoel evangelista gomes de sousa diretor de escola · pmp · semed · decreto 1888",
+  "rotulo": "Manoel Evangelista Gomes de Sousa",
+  "detalhe": "Diretor de Escola · PMP · SEMED · DECRETO 1888",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "clemerson ricardo barbosa assessor especial vii · pmp · sempror · decreto 1898",
+  "rotulo": "Clemerson Ricardo Barbosa",
+  "detalhe": "Assessor Especial VII · PMP · SEMPROR · DECRETO 1898",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "tanara veras santos assessor especial vii · pmp · sempror · decreto 1899",
+  "rotulo": "Tanara Veras Santos",
+  "detalhe": "Assessor Especial VII · PMP · SEMPROR · DECRETO 1899",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "usiel rodrigues lima assessor especial vii · pmp · sempror · decreto 1900",
+  "rotulo": "Usiel Rodrigues Lima",
+  "detalhe": "Assessor Especial VII · PMP · SEMPROR · DECRETO 1900",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "luiza karine oliveira bezerra pmp · prosap · funcao gratificada nivel iii, fg-3 · portaria 353",
+  "rotulo": "Luiza Karine Oliveira Bezerra",
+  "detalhe": "PMP · PROSAP · Função Gratificada Nível III, FG-3 · PORTARIA 353",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-atribuicao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "ana paula sousa barboza pmp · prosap · funcao gratificada nivel iii, fg-3 · portaria 354",
+  "rotulo": "Ana Paula Sousa Barboza",
+  "detalhe": "PMP · PROSAP · Função Gratificada Nível III, FG-3 · PORTARIA 354",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-atribuicao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "fabiano fontes de souza tecnico em radiologia; provimento efetivo de; provimento efetivo; provimento; provimento efetivo de auxiliar; provimento efetivo de tec enfe · semad · semsa · portaria 355",
+  "rotulo": "Fabiano Fontes de Souza",
+  "detalhe": "Técnico em Radiologia; provimento efetivo de; provimento efetivo; provimento; provimento efetivo de AUXILIAR; provimento efetivo de TEC ENFE · SEMAD · SEMSA · PORTARIA 355",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "jose claudio de sousa tavares zootecnista; provimento efetivo · sempror · funcao gratificada · portaria 022/2026",
+  "rotulo": "JOSÉ CLÁUDIO DE SOUSA TAVARES",
+  "detalhe": "Zootecnista; provimento efetivo · SEMPROR · função gratificada · PORTARIA 022/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "rinaldo quintino borges engenheiro agronomo; provimento efetivo · sempror · funcao gratificada · portaria 023/2026",
+  "rotulo": "RINALDO QUINTINO BORGES",
+  "detalhe": "Engenheiro Agrônomo; provimento efetivo · SEMPROR · função gratificada · PORTARIA 023/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "gilberto silva vieira tecnico agricola; provimento efetivo · sempror · funcao gratificada · portaria 024/2026",
+  "rotulo": "GILBERTO SILVA VIEIRA",
+  "detalhe": "Técnico Agrícola; provimento efetivo · SEMPROR · função gratificada · PORTARIA 024/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "acaina kiss da silva elias zootecnista; responsavel pelo setor de producao de ruminantes · saaep · funcao gratificada · portaria 025/2026",
+  "rotulo": "ACAINA KISS DA SILVA ELIAS",
+  "detalhe": "Zootecnista; RESPONSÁVEL PELO SETOR DE PRODUÇÃO DE RUMINANTES · SAAEP · função gratificada · PORTARIA 025/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "pessoa",
+  "texto": "luiza karine oliveira bezerra pmp · sehab · funcao gratificada nivel ii, fg-2 · portaria 352",
+  "rotulo": "Luiza Karine Oliveira Bezerra",
+  "detalhe": "PMP · SEHAB · Função Gratificada Nível II, FG-2 · PORTARIA 352",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "diario-destituido"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj na fonte receita · r$ 19.122.953,42",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ na Fonte",
+  "detalhe": "Receita · R$ 19.122.953,42",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj normal receita · r$ 2.944.023,32",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ Normal",
+  "detalhe": "Receita · R$ 2.944.023,32",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "rubrica",
+  "texto": "imposto sobre a propriedade predial e territorial urbana - princ. receita · r$ 68.395,18",
+  "rotulo": "Imposto sobre a Propriedade Predial e Territorial Urbana - Princ.",
+  "detalhe": "Receita · R$ 68.395,18",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "rubrica",
+  "texto": "imposto transmissao inter vivos bens imoveis e direitos - princ. receita · r$ 62.965,24",
+  "rotulo": "Imposto Transmissão Inter Vivos Bens Imóveis e Direitos - Princ.",
+  "detalhe": "Receita · R$ 62.965,24",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-11",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - simples nacional receita · r$ 47.402,08",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - Simples Nacional",
+  "detalhe": "Receita · R$ 47.402,08",
+  "arquivo": "Resumo Executivo PMP 2026-11-11.html",
+  "ancora": "contas-receitas"
  }
 ]
