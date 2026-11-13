@@ -1231,5 +1231,266 @@
   "detalhe": "Receita · R$ 47.402,08",
   "arquivo": "Resumo Executivo PMP 2026-11-11.html",
   "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "anulacao",
+  "texto": "alanna dos santos martins empenhos anulado · r$ 0,03 · prefeitura",
+  "rotulo": "ALANNA DOS SANTOS MARTINS",
+  "detalhe": "Empenhos anulado · R$ 0,03 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "anulacao",
+  "texto": "alanna dos santos martins liquidacoes anulado · r$ 0,03 · prefeitura",
+  "rotulo": "ALANNA DOS SANTOS MARTINS",
+  "detalhe": "Liquidações anulado · R$ 0,03 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "anulacao",
+  "texto": "alanna dos santos martins pagamentos anulado · r$ 0,03 · prefeitura",
+  "rotulo": "ALANNA DOS SANTOS MARTINS",
+  "detalhe": "Pagamentos anulado · R$ 0,03 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "levi justo souto empenhado · r$ 500,00 · prefeitura",
+  "rotulo": "LEVI JUSTO SOUTO",
+  "detalhe": "Empenhado · R$ 500,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "alanna dos santos martins empenhado · r$ -0,03 · prefeitura",
+  "rotulo": "ALANNA DOS SANTOS MARTINS",
+  "detalhe": "Empenhado · R$ -0,03 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "saude e vida remocoes de pacientes ltda - me liquidado · r$ 643.751,84 · prefeitura",
+  "rotulo": "SAUDE E VIDA REMOÇÕES DE PACIENTES LTDA - ME",
+  "detalhe": "Liquidado · R$ 643.751,84 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "maryah o. accounting fl ltda liquidado · r$ 49.000,00 · camara",
+  "rotulo": "MARYAH O. ACCOUNTING FL LTDA",
+  "detalhe": "Liquidado · R$ 49.000,00 · Câmara",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "k. j. da s. carneiro eireli liquidado · r$ 31.500,00 · camara",
+  "rotulo": "K. J. DA S. CARNEIRO EIRELI",
+  "detalhe": "Liquidado · R$ 31.500,00 · Câmara",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "hipergas e agua ltda liquidado · r$ 2.415,00 · prefeitura",
+  "rotulo": "HIPERGÁS E ÁGUA LTDA",
+  "detalhe": "Liquidado · R$ 2.415,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "levi justo souto liquidado · r$ 500,00 · prefeitura",
+  "rotulo": "LEVI JUSTO SOUTO",
+  "detalhe": "Liquidado · R$ 500,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "caixa economica federal pago · r$ 113,36 · prefeitura",
+  "rotulo": "CAIXA ECONÔMICA FEDERAL",
+  "detalhe": "Pago · R$ 113,36 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "credor",
+  "texto": "alanna dos santos martins pago · r$ -0,03 · prefeitura",
+  "rotulo": "ALANNA DOS SANTOS MARTINS",
+  "detalhe": "Pago · R$ -0,03 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "outro",
+  "texto": "portaria 230/2026 dispoe sobre o restabelecimento de beneficio do aluguel social concedido no ambito da politica habitacional municipal e da outras providencias. o secretario municipal de habitacao sehab",
+  "rotulo": "PORTARIA 230/2026",
+  "detalhe": "DISPÕE SOBRE O RESTABELECIMENTO DE BENEFÍCIO DO ALUGUEL SOCIAL CONCEDIDO NO ÂMBITO DA POLÍTICA HABITACIONAL MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS. O SECRETÁRIO MUNICIPAL DE HABITAÇÃO SEHAB",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "outro",
+  "texto": "portaria 5536/2026 semed institui e aprova o edital nº 01/2026 – reconhecimento, valorizacao e compartilhamento de boas praticas pedagogicas e de gestao escolar no ambito da rede publica municipal de semed",
+  "rotulo": "PORTARIA 5536/2026",
+  "detalhe": "SEMED INSTITUI E APROVA O EDITAL Nº 01/2026 – RECONHECIMENTO, VALORIZAÇÃO E COMPARTILHAMENTO DE BOAS PRÁTICAS PEDAGÓGICAS E DE GESTÃO ESCOLAR NO ÂMBITO DA REDE PÚBLICA MUNICIPAL DE SEMED",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pagamento",
+  "texto": "caixa economica federal pago (tesouraria) · r$ 113,36 · prefeitura",
+  "rotulo": "CAIXA ECONÔMICA FEDERAL",
+  "detalhe": "Pago (Tesouraria) · R$ 113,36 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pagamento",
+  "texto": "alanna dos santos martins pago (tesouraria) · r$ -0,03 · prefeitura",
+  "rotulo": "ALANNA DOS SANTOS MARTINS",
+  "detalhe": "Pago (Tesouraria) · R$ -0,03 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "ana paula pacheco lamego responsavel tecnica de integracao das redes de atencao as condicoes cr; responsavel tecnica de integracao das redes de atencao · semsa · portaria 0994",
+  "rotulo": "ANA PAULA PACHECO LAMEGO",
+  "detalhe": "Responsável Técnica de Integração das Redes de Atenção às Condições Cr; Responsável Técnica de Integração das Redes de Atenção · SEMSA · PORTARIA 0994",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "camila cristina teixeira santana provimento em comissao de assessor parlamentar v; provimento comissionado de assessor · cmp · gabinete da vereadora frederico graciele coelho jacome de brito moreira · portaria 519/2026",
+  "rotulo": "CAMILA CRISTINA TEIXEIRA SANTANA",
+  "detalhe": "provimento em comissão de Assessor Parlamentar V; provimento comissionado de Assessor · CMP · Gabinete da Vereadora Frederico Graciele Coelho Jacome de Brito Moreira · PORTARIA 519/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "jose luiz castro da cruz coordenador de almoxarifado central na estrutura funcional da secretar; provimento efetivo de auxiliar administrativo; coordenador do almoxa · semad · portaria 210/2026",
+  "rotulo": "José Luiz Castro da Cruz",
+  "detalhe": "Coordenador de Almoxarifado Central na estrutura funcional da Secretar; provimento efetivo de Auxiliar Administrativo; Coordenador do Almoxa · SEMAD · PORTARIA 210/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "ana paula pacheco lamego responsavel tecnica de integracao das redes de atencao psicossocial (r; responsavel tecnica de integracao das redes · semsa · portaria 0995",
+  "rotulo": "ANA PAULA PACHECO LAMEGO",
+  "detalhe": "Responsável Técnica de Integração das Redes de Atenção Psicossocial (R; Responsável Técnica de Integração das Redes · SEMSA · PORTARIA 0995",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "mirelly da silva rosado responsavel tecnica de integracao das redes de atencao as condicoes cr; responsavel tecnica de integracao das redes · semsa · portaria 0996",
+  "rotulo": "MIRELLY DA SILVA ROSADO",
+  "detalhe": "Responsável Técnica de Integração das Redes de Atenção às Condições Cr; Responsável Técnica de Integração das Redes · SEMSA · PORTARIA 0996",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "eder barroso teixeira provimento em comissao de assessor parlamentar v; provimento comissionado de assessor · cmp · gabinete da vereadora graciele coelho jacome de brito moreira · portaria 520/2026",
+  "rotulo": "EDER BARROSO TEIXEIRA",
+  "detalhe": "provimento em comissão de Assessor Parlamentar V; provimento comissionado de Assessor · CMP · Gabinete da Vereadora Graciele Coelho Jacome de Brito Moreira · PORTARIA 520/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "marcos leal lopes fiscal · pmp · gabinete do prefeito · portaria 127/2026",
+  "rotulo": "Marcos Leal Lopes",
+  "detalhe": "Fiscal · PMP · Gabinete do Prefeito · PORTARIA 127/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "pessoa",
+  "texto": "daniel bessa soares; gilberto silva vieira fiscal dos contratos no ambito da secretaria municipal de cultura – se; fiscal dos contratos nº 01/2026; auxiliar; fiscal titular do; tec · secult · portaria 081",
+  "rotulo": "DANIEL BESSA SOARES; GILBERTO SILVA VIEIRA",
+  "detalhe": "fiscal dos contratos no âmbito da Secretaria Municipal de Cultura – SE; Fiscal dos Contratos nº 01/2026; AUXILIAR; FISCAL TITULAR do; TEC · SECULT · PORTARIA 081",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "diario-revogacao"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj normal receita · r$ 52.846,47",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ Normal",
+  "detalhe": "Receita · R$ 52.846,47",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - simples nacional receita · r$ 28.539,36",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - Simples Nacional",
+  "detalhe": "Receita · R$ 28.539,36",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "rubrica",
+  "texto": "imposto transmissao inter vivos bens imoveis e direitos - princ. receita · r$ 25.764,08",
+  "rotulo": "Imposto Transmissão Inter Vivos Bens Imóveis e Direitos - Princ.",
+  "detalhe": "Receita · R$ 25.764,08",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj na fonte receita · r$ 15.845,08",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ na Fonte",
+  "detalhe": "Receita · R$ 15.845,08",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-12",
+  "tipo": "rubrica",
+  "texto": "imposto sobre a renda retido na fonte outros rendimentos - princ. receita · r$ 14.009,92",
+  "rotulo": "Imposto sobre a Renda Retido na Fonte Outros Rendimentos - Princ.",
+  "detalhe": "Receita · R$ 14.009,92",
+  "arquivo": "Resumo Executivo PMP 2026-11-12.html",
+  "ancora": "contas-receitas"
  }
 ]

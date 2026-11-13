@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Resumo Executivo PMP</title>
+<style>
+:root{
+  --bg:#f4f6fa; --paper:#ffffff; --paper2:#f8fafc;
+  --ink:#0f172a; --muted:#64748b; --line:#e2e8f0; --slate:#475569;
+  --blue:#2563eb; --green:#059669; --amber:#d97706; --red:#dc2626;
+  --violet:#7c3aed; --cyan:#0891b2;
+  --shadow:0 10px 30px rgba(15,23,42,.08);
+  --r:16px;
+}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{
+  background:linear-gradient(180deg,#f8fafc 0%,var(--bg) 40%,#eef2f8 100%);
+  color:var(--ink);font:14.5px/1.55 "Segoe UI",system-ui,-apple-system,sans-serif;
+  padding:28px 18px 56px;
+}
+.wrap{max-width:1220px;margin:0 auto}
+header.top{
+  background:var(--paper);border:1px solid var(--line);border-radius:calc(var(--r) + 6px);
+  padding:22px 24px;box-shadow:var(--shadow);display:flex;justify-content:space-between;
+  gap:18px;align-items:flex-start;flex-wrap:wrap;margin-bottom:26px;
+  position:relative;overflow:hidden;
+}
+header.top::before{
+  content:"";position:absolute;inset:0 0 auto;height:4px;
+  background:linear-gradient(90deg,var(--blue),var(--cyan),var(--violet));
+}
+.brand{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--blue);font-weight:800}
+h1{margin:6px 0 6px;font-size:34px;line-height:1.1;letter-spacing:-.02em;color:#0b1220}
+.sub{color:var(--muted);font-size:13.5px;max-width:720px}
+.meta{display:flex;flex-wrap:wrap;gap:7px;justify-content:flex-end}
+.badge{font-size:11px;border:1px solid var(--line);border-radius:999px;padding:5px 10px;color:var(--slate);background:var(--paper2);white-space:nowrap}
+.badge b{color:var(--ink)}
+.badge.ok{border-color:#bbf7d0;background:#f0fdf4;color:#15803d}
+.badge.warn{border-color:#fde68a;background:#fffbeb;color:#b45309}
+.badge.bad{border-color:#fecaca;background:#fef2f2;color:#b91c1c}
+.badge.extra{border-color:#ddd6fe;background:#f5f3ff;color:#6d28d9}
+
+.bloco{margin:0 0 30px}
+.bloco-head{display:flex;flex-direction:column;gap:2px;margin:0 0 12px;padding-bottom:8px;border-bottom:2px solid var(--line)}
+.kicker{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);font-weight:800}
+.bloco-head h2{margin:0;font-size:20px;letter-spacing:-.01em;color:#0b1220}
+
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;margin:0 0 14px}
+.kpi{background:var(--paper);border:1px solid var(--line);border-top:4px solid var(--line);border-radius:var(--r);padding:14px 16px;box-shadow:var(--shadow)}
+.kpi strong{display:block;font-size:22px;line-height:1.1;letter-spacing:-.01em;color:#0b1220}
+.kpi span{display:block;color:var(--muted);font-size:11.5px;margin-top:4px}
+.kpi small{display:block;color:var(--slate);font-size:11px;margin-top:6px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.kpi.cyan{border-top-color:var(--cyan)} .kpi.green{border-top-color:var(--green)}
+.kpi.amber{border-top-color:var(--amber)} .kpi.red{border-top-color:var(--red)}
+.kpi.violet{border-top-color:var(--violet)} .kpi.blue{border-top-color:var(--blue)}
+
+.grid{display:grid;gap:14px}
+.grid-2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.grid-duo{grid-template-columns:1.35fr 1fr}
+.card,.panel{background:var(--paper);border:1px solid var(--line);border-radius:var(--r);padding:18px 18px 16px;box-shadow:var(--shadow);min-width:0}
+.card.full{grid-column:1 / -1}
+.card h2,.panel h2{margin:0 0 4px;font-size:16px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;color:#0b1220}
+.card h2 .tag{font-size:10px;font-weight:700;color:var(--muted);border:1px solid var(--line);border-radius:999px;padding:2px 8px;background:var(--paper2)}
+.card .hint,.panel .hint{color:var(--muted);font-size:12px;margin:0 0 10px}
+.card .hint b,.panel .hint b{color:var(--slate)}
+
+.tablewrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th,td{padding:8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{color:var(--muted);font-weight:700;font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;background:var(--paper2)}
+td.num,th.num{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+tbody tr:nth-child(even){background:#fbfcfe}
+tbody tr:hover{background:#eef4ff}
+tr:last-child td{border-bottom:none}
+.pos{color:#047857;font-weight:600} .neg{color:#b91c1c;font-weight:600} .muted{color:var(--muted)}
+.empty{color:var(--muted);font-size:12.5px;padding:10px 0}
+ul.lista{margin:6px 0 0;padding-left:18px;font-size:13px;color:#334155}
+ul.lista li{margin:5px 0}
+
+.chips{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.chip{display:inline-flex;align-items:center;gap:4px;font-size:10.5px;font-weight:700;border-radius:999px;padding:3px 8px;border:1px solid var(--line);background:var(--paper2);color:var(--slate);white-space:nowrap}
+.chip.orgao{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.lotacao{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.funcao{background:#ecfeff;border-color:#a5f3fc;color:#0e7490}
+.chip.ato{background:#f8fafc;border-color:#cbd5e1;color:#475569}
+.chip.exonerado,.chip.destituido,.chip.nao{background:#fef2f2;border-color:#fecaca;color:#b91c1c}
+.chip.nomeado{background:#f0fdf4;border-color:#bbf7d0;color:#15803d}
+.chip.atribuicao{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.designacao{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.prorrogacao{background:#ecfeff;border-color:#a5f3fc;color:#0e7490}
+.chip.revogacao,.chip.outro{background:#f1f5f9;border-color:#cbd5e1;color:#475569}
+.chip.normal{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.extra{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.saaep{background:#fffbeb;border-color:#fde68a;color:#b45309}
+.chip.pref{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.cam{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.pill{display:inline-block;font-size:10px;font-weight:700;border-radius:999px;padding:2px 7px;border:1px solid currentColor;white-space:nowrap}
+
+.diario-top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;flex-wrap:wrap;margin-bottom:10px}
+.edicao{font-size:13px;color:var(--slate)}
+.edicao b{color:#0b1220}
+.edicao span{display:block;color:var(--muted);font-size:11.5px;margin-top:2px}
+.alerta{background:#fffbeb;border:1px solid #fde68a;border-left:4px solid var(--amber);border-radius:12px;padding:10px 12px;margin:0 0 12px;color:#92400e;font-size:12.5px}
+.alerta-extra{background:#f5f3ff;border:1px solid #ddd6fe;border-left:4px solid var(--violet);border-radius:12px;padding:10px 12px;margin:0 0 12px;color:#5b21b6;font-size:12.5px}
+.alerta-extra b{letter-spacing:.06em}
+.diario-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:12px}
+.grupo{border:1px solid var(--line);border-top:4px solid var(--line);border-radius:14px;background:var(--paper);overflow:hidden}
+.grupo.exonerado{border-top-color:var(--red)} .grupo.nomeado{border-top-color:var(--green)}
+.grupo.atribuicao{border-top-color:var(--blue)} .grupo.designacao{border-top-color:var(--violet)}
+.grupo.destituido{border-top-color:var(--red)} .grupo.prorrogacao{border-top-color:var(--cyan)}
+.grupo.revogacao{border-top-color:var(--slate)} .grupo.outro{border-top-color:#94a3b8}
+.grupo-head{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:10px 12px;background:var(--paper2);border-bottom:1px solid var(--line)}
+.grupo-nome{font-size:12.5px;font-weight:800;letter-spacing:.02em;color:#0b1220}
+.grupo-qtd{font-size:11px;font-weight:800;color:var(--muted);background:#fff;border:1px solid var(--line);border-radius:999px;padding:2px 8px}
+.grupo-itens{padding:4px 12px 8px}
+.pessoa{padding:9px 0;border-bottom:1px dashed var(--line)}
+.pessoa:last-child{border-bottom:none}
+.pessoa-nome{font-size:13px;font-weight:800;color:#0b1220}
+.pessoa-cargo{font-size:12px;color:var(--slate);margin-top:1px}
+.pessoa .chips{margin-top:5px}
+.pessoa-obs{font-size:10.5px;color:var(--muted);margin-top:4px}
+.mais{font-size:11px;color:var(--muted);padding:6px 12px 10px}
+.sub-card{border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-top:12px;background:var(--paper2)}
+.sub-card h3{margin:0 0 6px;font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.outros-lista{display:grid;grid-template-columns:1fr;gap:6px}
+.outro-item{display:flex;gap:8px;align-items:flex-start;font-size:12px;color:#334155}
+.outro-num{font-weight:800;color:#0b1220;white-space:nowrap}
+
+.aviso{background:#fffbeb;border:1px solid #fde68a;border-left:4px solid var(--amber);border-radius:12px;padding:12px 14px;color:#92400e;font-size:12.5px;margin:0 0 22px}
+.aviso ul{margin:6px 0 0;padding-left:18px}
+footer{margin-top:30px;border-top:1px solid var(--line);padding-top:14px;color:var(--muted);font-size:11.5px;display:flex;justify-content:space-between;gap:14px;flex-wrap:wrap}
+footer a{color:var(--blue)}
+a{color:var(--blue);text-decoration:none}
+a:hover{text-decoration:underline}
+.small{font-size:11.5px;color:var(--muted)}
+code{background:var(--paper2);border:1px solid var(--line);border-radius:6px;padding:1px 5px;font-size:11px}
+
+.edicoes-nav{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:10px 12px;box-shadow:var(--shadow);margin:0 0 18px}
+.edicoes-nav-links,.edicoes-nav-extra{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.btn-nav{font-size:11.5px;font-weight:800;border:1px solid var(--line);border-radius:9px;padding:6px 9px;background:var(--paper2);color:var(--ink);white-space:nowrap}
+.btn-nav:hover{border-color:var(--blue);color:var(--blue)}
+.btn-nav.off{color:var(--muted);background:transparent;cursor:default;pointer-events:none}
+.edicoes-atual{font-size:12px;color:var(--muted);white-space:nowrap}
+.edicoes-atual b{color:var(--ink)}
+.edicoes-nav select{max-width:260px;border:1px solid var(--line);border-radius:9px;padding:6px 9px;background:var(--paper);color:var(--ink);font:inherit;font-size:12px;outline:none}
+.filtros{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;align-items:end;margin:0 0 10px}
+.filtro{display:flex;flex-direction:column;gap:4px;font-size:10.5px;font-weight:800;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.filtro input,.filtro select{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--paper);color:var(--ink);font:inherit;text-transform:none;letter-spacing:0;outline:none}
+.filtro input:focus,.filtro select:focus{border-color:var(--blue);box-shadow:0 0 0 3px rgba(37,99,235,.12)}
+.btn{border:1px solid var(--line);border-radius:10px;padding:9px 12px;background:var(--paper2);color:var(--ink);font:inherit;font-weight:800;cursor:pointer}
+.btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+.btn:hover{filter:brightness(.97)}
+.resultados{display:grid;gap:8px;margin:10px 0}
+.resultado{border:1px solid var(--line);border-left:4px solid var(--blue);border-radius:12px;padding:10px 12px;background:var(--paper2)}
+.resultado-top{display:flex;justify-content:space-between;gap:8px;align-items:center;margin-bottom:2px}
+.resultado-nome{font-weight:800;color:#0b1220}
+.destaques{font-size:11.5px;color:var(--slate)}
+.destaques div{margin:1px 0}
+.chip.pessoa{background:#f5f3ff;border-color:#ddd6fe;color:#6d28d9}
+.chip.credor,.chip.pagamento{background:#eff6ff;border-color:#bfdbfe;color:#1d4ed8}
+.chip.rubrica{background:#ecfeff;border-color:#a5f3fc;color:#0e7490}
+.chip.emenda{background:#f0fdf4;border-color:#bbf7d0;color:#15803d}
+.chip.anulacao{background:#fef2f2;border-color:#fecaca;color:#b91c1c}
+.chip.decreto{background:#f1f5f9;border-color:#cbd5e1;color:#475569}
+.chip.lei{background:#fefce8;border-color:#fde68a;color:#a16207}
+
+@media(max-width:900px){
+  .grid-2,.grid-duo,.diario-grid{grid-template-columns:1fr}
+  header.top{flex-direction:column}
+  .meta{justify-content:flex-start}
+  h1{font-size:26px}
+}
+@media print{
+  body{background:#fff;color:#000;padding:0}
+  header.top,.card,.panel,.kpi,.grupo,.sub-card,.aviso{box-shadow:none;background:#fff;border-color:#ccc}
+  header.top::before{display:none}
+  .card,.panel,.grupo,.sub-card{break-inside:avoid}
+  .badge,.chip{border-color:#999;color:#333;background:#fff}
+  .pos,.neg,.muted,.hint,.small,.pessoa-cargo,footer{color:#444}
+  a{color:#000}
+  .no-print{display:none}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <div class="brand">Parauapebas · Executivo</div>
+      <h1>Resumo Executivo PMP</h1>
+      <div class="sub">Panorama do dia útil anterior · Diário Oficial, Contas Públicas, Tesouraria, Anulações e Emendas</div>
+    </div>
+    <div class="meta"><span class="badge ">Referência: <b>12/11/2026</b></span><span class="badge ">Gerado: 13/11/2026 08:40</span><span class="badge ok">Receitas: <b>12/11/2026</b></span><span class="badge ok">Empenhos: <b>12/11/2026</b></span><span class="badge ok">Liquidações: <b>12/11/2026</b></span><span class="badge ok">Pagamentos: <b>12/11/2026</b></span><span class="badge extra">Edição extra: <b>Nº 1485</b></span><span class="badge "><a href="edicoes.html" target="_blank" rel="noopener">Edições e busca</a></span></div>
+  </header>
+  
+    <nav class="edicoes-nav" aria-label="Edições do Resumo Executivo">
+      <div class="edicoes-nav-links">
+        <a id="nav-anterior" class="btn-nav off" href="#" aria-disabled="true">← sem anterior</a>
+        <span class="edicoes-atual">Edição atual: <b>12/11/2026</b></span>
+        <a id="nav-proxima" class="btn-nav off" href="#" aria-disabled="true">sem próxima →</a>
+      </div>
+      <div class="edicoes-nav-extra">
+        <select id="nav-edicoes" aria-label="Ir para edição"><option value="">Ir para edição...</option></select>
+        <a class="btn-nav" href="edicoes.html">Todas as edições e busca</a>
+      </div>
+    </nav>
+    <script>
+    (function() {
+      const atual = "2026-11-12";
+      const s = document.createElement("script");
+      s.src = "indice/edicoes.js";
+      s.onload = function() {
+        const lista = (window.RESUMO_EDICOES || []).slice().sort(
+          (a, b) => (b.data || "").localeCompare(a.data || "")
+        );
+        const sel = document.getElementById("nav-edicoes");
+        lista.forEach((e) => {
+          const o = document.createElement("option");
+          o.value = e.arquivo;
+          o.textContent = e.data_br || e.data;
+          if (e.data === atual) o.selected = true;
+          sel.appendChild(o);
+        });
+        sel.onchange = function() { if (this.value) location.href = this.value; };
+        const pos = lista.findIndex((e) => e.data === atual);
+        if (pos >= 0) {
+          const anterior = lista[pos + 1];
+          const proxima = lista[pos - 1];
+          if (anterior) {
+            const a = document.getElementById("nav-anterior");
+            a.href = anterior.arquivo;
+            a.textContent = "← " + (anterior.data_br || anterior.data);
+            a.classList.remove("off");
+            a.removeAttribute("aria-disabled");
+          }
+          if (proxima) {
+            const p = document.getElementById("nav-proxima");
+            p.href = proxima.arquivo;
+            p.textContent = (proxima.data_br || proxima.data) + " →";
+            p.classList.remove("off");
+            p.removeAttribute("aria-disabled");
+          }
+        }
+      };
+      document.head.appendChild(s);
+    })();
+    </script>
+    
+<div class="aviso"><b>Leitura das fontes</b><ul><li>Receitas: fonte atrasada — SAAEP até 30/10/2026.</li><li>Empenhos: fonte atrasada — SAAEP até 03/11/2026; Câmara até 03/11/2026.</li><li>Liquidações: fonte atrasada — SAAEP até 10/11/2026.</li><li>Pagamentos: fonte atrasada — SAAEP até 09/10/2026; Câmara até 20/10/2026.</li></ul></div>
+<section class="bloco "><div class="bloco-head"><span class="kicker">Resumo executivo</span><h2>Visão do dia</h2></div><div class="kpis"><div class="kpi cyan"><strong>R$ 169.440,69</strong><span>Receitas do dia</span><small>Prefeitura: R$ 169.440,69</small></div><div class="kpi amber"><strong>R$ 499,97</strong><span>Empenhado</span><small>maior: LEVI JUSTO SOUTO</small></div><div class="kpi green"><strong>R$ 727.685,42</strong><span>Liquidado</span><small>maior: SAUDE E VIDA REMOÇÕES DE PACIENTES LTDA - ME</small></div><div class="kpi blue"><strong>R$ 113,33</strong><span>Pago</span><small>maior: CAIXA ECONÔMICA FEDERAL</small></div><div class="kpi red"><strong>R$ 0,09</strong><span>Anulações</span><small>3 lançamento(s)</small></div><div class="kpi violet"><strong>R$ 0,00</strong><span>Emendas</span><small>0 movimentação(ões)</small></div></div><section class="card"><h2>Destaques do dia</h2><ul class="lista"><li>Diário Oficial: Nº 1484 (Normal) · Nº 1485 (Extra) — <b>16</b> atos (2 exonerados, 4 nomeados / contratados, 1 designação / comissão, 1 revogação / sem efeito, 2 outros atos) — <b>EDIÇÃO EXTRA</b> (Nº 1485).</li><li>Receitas: <b>R$ 169.440,69</b> (maior: Imposto sobre Serviços de Qualquer Natureza - PJ Normal — R$ 52.846,47).</li><li>Empenhado: <b>R$ 499,97</b>.</li><li>Liquidado: <b>R$ 727.685,42</b>.</li><li>Pago: <b>R$ 113,33</b>.</li><li>Anulações: <b>R$ 0,09</b> em 3 lançamento(s).</li><li>Emendas: sem movimentação no dia.</li><li>Tesouraria: caixa do exercício <b>R$ 131.558.448,33</b>.</li></ul></section></section>
+<section class="bloco "><div class="bloco-head"><span class="kicker">Atos e publicações</span><h2>Diário Oficial</h2></div><div class="panel panel-diario" id="diario"><div class="diario-top"><div class="edicao"><b>Edições do dia</b><span>16 atos no dia</span></div><div class="chips"><span class="chip normal">Nº 1484 · Normal</span><span class="chip extra">Nº 1485 · Extra</span><span class="chip exonerado">Exonerados: 2</span><span class="chip nomeado">Nomeados / Contratados: 4</span><span class="chip designacao">Designações / Comissões: 1</span><span class="chip revogacao">Revogações / Sem efeito: 1</span><span class="chip outro">Outros atos: 2</span></div></div><div class="alerta-extra"><b>EDIÇÃO EXTRA</b> Nº 1485 publicada em 12/11/2026 — os atos do dia já incluem a extra.</div><div class="diario-grid"><div class="grupo exonerado" id="diario-exonerado"><div class="grupo-head"><span class="grupo-nome">Exonerados</span><span class="grupo-qtd">2</span></div><div class="grupo-itens"><div class="pessoa"><div class="pessoa-nome">ANA PAULA PACHECO LAMEGO</div><div class="pessoa-cargo">Responsável Técnica de Integração das Redes de Atenção às Condições Cr; Responsável Técnica de Integração das Redes de Atenção</div><div class="chips"><span class="chip orgao">SEMSA</span><span class="chip ato">PORTARIA 0994 · p. 58</span></div></div><div class="pessoa"><div class="pessoa-nome">CAMILA CRISTINA TEIXEIRA SANTANA</div><div class="pessoa-cargo">provimento em comissão de Assessor Parlamentar V; provimento comissionado de Assessor</div><div class="chips"><span class="chip orgao">CMP</span><span class="chip lotacao">Gabinete da Vereadora Frederico Graciele Coelho Jacome de Brito Moreira</span><span class="chip ato">PORTARIA 519/2026 · p. 143</span></div></div></div></div><div class="grupo nomeado" id="diario-nomeado"><div class="grupo-head"><span class="grupo-nome">Nomeados / Contratados</span><span class="grupo-qtd">4</span></div><div class="grupo-itens"><div class="pessoa"><div class="pessoa-nome">José Luiz Castro da Cruz</div><div class="pessoa-cargo">Coordenador de Almoxarifado Central na estrutura funcional da Secretar; provimento efetivo de Auxiliar Administrativo; Coordenador do Almoxa</div><div class="chips"><span class="chip orgao">SEMAD</span><span class="chip ato">PORTARIA 210/2026 · p. 55</span></div></div><div class="pessoa"><div class="pessoa-nome">ANA PAULA PACHECO LAMEGO</div><div class="pessoa-cargo">Responsável Técnica de Integração das Redes de Atenção Psicossocial (R; Responsável Técnica de Integração das Redes</div><div class="chips"><span class="chip orgao">SEMSA</span><span class="chip ato">PORTARIA 0995 · p. 59</span></div></div><div class="pessoa"><div class="pessoa-nome">MIRELLY DA SILVA ROSADO</div><div class="pessoa-cargo">Responsável Técnica de Integração das Redes de Atenção às Condições Cr; Responsável Técnica de Integração das Redes</div><div class="chips"><span class="chip orgao">SEMSA</span><span class="chip ato">PORTARIA 0996 · p. 59</span></div></div><div class="pessoa"><div class="pessoa-nome">EDER BARROSO TEIXEIRA</div><div class="pessoa-cargo">provimento em comissão de Assessor Parlamentar V; provimento comissionado de Assessor</div><div class="chips"><span class="chip orgao">CMP</span><span class="chip lotacao">Gabinete da Vereadora Graciele Coelho Jacome de Brito Moreira</span><span class="chip ato">PORTARIA 520/2026 · p. 143</span></div></div></div></div><div class="grupo designacao" id="diario-designacao"><div class="grupo-head"><span class="grupo-nome">Designações / Comissões</span><span class="grupo-qtd">1</span></div><div class="grupo-itens"><div class="pessoa"><div class="pessoa-nome">Marcos Leal Lopes</div><div class="pessoa-cargo">Fiscal</div><div class="chips"><span class="chip orgao">PMP</span><span class="chip lotacao">Gabinete do Prefeito</span><span class="chip ato">PORTARIA 127/2026 · p. 3</span></div></div></div></div><div class="grupo revogacao" id="diario-revogacao"><div class="grupo-head"><span class="grupo-nome">Revogações / Sem efeito</span><span class="grupo-qtd">1</span></div><div class="grupo-itens"><div class="pessoa"><div class="pessoa-nome">DANIEL BESSA SOARES; GILBERTO SILVA VIEIRA</div><div class="pessoa-cargo">fiscal dos contratos no âmbito da Secretaria Municipal de Cultura – SE; Fiscal dos Contratos nº 01/2026; AUXILIAR; FISCAL TITULAR do; TEC</div><div class="chips"><span class="chip orgao">SECULT</span><span class="chip ato">PORTARIA 081 · p. 141</span></div></div></div></div></div><div class="sub-card" id="diario-outros"><h3>Outros atos</h3><div class="outros-lista"><div class="outro-item"><span class="outro-num">230/2026</span><span>DISPÕE SOBRE O RESTABELECIMENTO DE BENEFÍCIO DO ALUGUEL SOCIAL CONCEDIDO NO ÂMBITO DA POLÍTICA HABITACIONAL MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS. O SECRETÁRIO MUNICIPAL DE HABITAÇÃO <span class="small">(SEHAB)</span></span></div><div class="outro-item"><span class="outro-num">5536/2026</span><span>SEMED INSTITUI E APROVA O EDITAL Nº 01/2026 – RECONHECIMENTO, VALORIZAÇÃO E COMPARTILHAMENTO DE BOAS PRÁTICAS PEDAGÓGICAS E DE GESTÃO ESCOLAR NO ÂMBITO DA REDE PÚBLICA MUNICIPAL DE <span class="small">(SEMED)</span></span></div></div></div><p class="small"><a href="https://angelojordy-svg.github.io/diario-parauapebas/" target="_blank" rel="noopener">Abrir o Diário Oficial</a> · <a href="https://angelojordy-svg.github.io/diario-parauapebas/" target="_blank" rel="noopener">site pesquisável</a></p></div></section>
+<section class="bloco "><div class="bloco-head"><span class="kicker">Arrecadação e execução</span><h2>Contas Públicas</h2></div><div class="grid grid-2"><section class="card" id="contas-receitas"><h2>Receitas do dia</h2><p class="hint">Arrecadado líquido de anulações · Prefeitura + SAAEP</p><div class="tablewrap"><table><thead><tr><th>Código</th><th>Rubrica</th><th class="num">Valor</th></tr></thead><tbody><tr><td>001.1.1.4.51.1 .1.04.00.00</td><td>Imposto sobre Serviços de Qualquer Natureza - PJ Normal</td><td class="num">R$ 52.846,47</td></tr><tr><td>001.1.1.4.51.1 .1.07.00.00</td><td>Imposto sobre Serviços de Qualquer Natureza - Simples Nacional</td><td class="num">R$ 28.539,36</td></tr><tr><td>001.1.1.2.53.0 .1.00.00.00</td><td>Imposto Transmissão Inter Vivos Bens Imóveis e Direitos - Princ.</td><td class="num">R$ 25.764,08</td></tr><tr><td>001.1.1.4.51.1 .1.05.00.00</td><td>Imposto sobre Serviços de Qualquer Natureza - PJ na Fonte</td><td class="num">R$ 15.845,08</td></tr><tr><td>001.1.1.3.03.4 .1.00.00.00</td><td>Imposto sobre a Renda Retido na Fonte Outros Rendimentos - Princ.</td><td class="num">R$ 14.009,92</td></tr></tbody></table></div></section><section class="card" id="contas-empenhado"><h2>Empenhado</h2><p class="hint">Prefeitura: R$ 499,97</p><div class="tablewrap"><table><thead><tr><th>Credor</th><th>Entidade</th><th class="num">Valor</th></tr></thead><tbody><tr><td>LEVI JUSTO SOUTO</td><td>Prefeitura</td><td class="num">R$ 500,00</td></tr><tr><td>ALANNA DOS SANTOS MARTINS</td><td>Prefeitura</td><td class="num">R$ -0,03</td></tr></tbody></table></div></section><section class="card" id="contas-liquidado"><h2>Liquidado</h2><p class="hint">Prefeitura: R$ 647.185,42 · Câmara: R$ 80.500,00</p><div class="tablewrap"><table><thead><tr><th>Credor</th><th>Entidade</th><th class="num">Valor</th></tr></thead><tbody><tr><td>SAUDE E VIDA REMOÇÕES DE PACIENTES LTDA - ME</td><td>Prefeitura</td><td class="num">R$ 643.751,84</td></tr><tr><td>MARYAH O. ACCOUNTING FL LTDA</td><td>Câmara</td><td class="num">R$ 49.000,00</td></tr><tr><td>K. J. DA S. CARNEIRO EIRELI</td><td>Câmara</td><td class="num">R$ 31.500,00</td></tr><tr><td>HIPERGÁS E ÁGUA LTDA</td><td>Prefeitura</td><td class="num">R$ 2.415,00</td></tr><tr><td>LEVI JUSTO SOUTO</td><td>Prefeitura</td><td class="num">R$ 500,00</td></tr></tbody></table></div></section><section class="card" id="contas-pago"><h2>Pago</h2><p class="hint">Prefeitura: R$ 113,33</p><div class="tablewrap"><table><thead><tr><th>Credor</th><th>Entidade</th><th class="num">Valor</th></tr></thead><tbody><tr><td>CAIXA ECONÔMICA FEDERAL</td><td>Prefeitura</td><td class="num">R$ 113,36</td></tr><tr><td>ALANNA DOS SANTOS MARTINS</td><td>Prefeitura</td><td class="num">R$ -0,03</td></tr></tbody></table></div></section></div></section>
+<section class="bloco "><div class="bloco-head"><span class="kicker">Caixa e estornos</span><h2>Tesouraria e Anulações</h2></div><div class="grid grid-duo"><section class="card" id="tesouraria"><h2>Tesouraria</h2><div class="kpis"><div class="kpi cyan"><strong>R$ 131.558.448,33</strong><span>Caixa do exercício</span></div><div class="kpi amber"><strong>R$ 110.304.455,91</strong><span>A pagar</span></div><div class="kpi red"><strong>R$ 110.304.455,91</strong><span>Em aberto</span></div><div class="kpi violet"><strong>6,6 dias</strong><span>Prazo médio</span><small>liquidação → pagamento</small></div></div><p class="hint"><b>Principais contas pagas no dia</b></p><div class="tablewrap"><table><thead><tr><th>Credor</th><th>Entidade</th><th class="num">Valor</th></tr></thead><tbody><tr><td>CAIXA ECONÔMICA FEDERAL</td><td>Prefeitura</td><td class="num">R$ 113,36</td></tr><tr><td>ALANNA DOS SANTOS MARTINS</td><td>Prefeitura</td><td class="num">R$ -0,03</td></tr></tbody></table></div><p class="small">Dados até 12/11/2026 · <a href="https://angelojordy-svg.github.io/tesouraria-parauapebas/" target="_blank" rel="noopener">painel público</a></p></section><section class="card" id="anulacoes"><h2>Anulações do dia</h2><div class="chips" style="margin-bottom:8px"><span class="chip nao">Empenhos: R$ 0,03</span> <span class="chip nao">Liquidações: R$ 0,03</span> <span class="chip nao">Pagamentos: R$ 0,03</span></div><div class="tablewrap"><table><thead><tr><th>Tipo</th><th>Credor</th><th>Entidade</th><th class="num">Valor</th></tr></thead><tbody><tr><td>Empenhos</td><td>ALANNA DOS SANTOS MARTINS</td><td>Prefeitura</td><td class="num">R$ 0,03</td></tr><tr><td>Liquidações</td><td>ALANNA DOS SANTOS MARTINS</td><td>Prefeitura</td><td class="num">R$ 0,03</td></tr><tr><td>Pagamentos</td><td>ALANNA DOS SANTOS MARTINS</td><td>Prefeitura</td><td class="num">R$ 0,03</td></tr></tbody></table></div></section></div></section>
+<section class="bloco "><div class="bloco-head"><span class="kicker">Movimentação do dia</span><h2>Emendas parlamentares</h2></div><div class="panel panel-emendas" id="emendas"><div class="empty">Sem movimentação de emendas no dia. Último movimento registrado: 09/11/2026.</div></div></section>
+<section class="bloco "><div class="bloco-head"><span class="kicker">Evolução diária</span><h2>Histórico e variações</h2></div><div class="panel panel-hist" id="historico"><div class="tablewrap"><table><thead><tr><th>Métrica</th><th>Dia</th><th>Δ dia</th><th>Δ 7 dias</th><th class="num">Δ 30 dias</th></tr></thead><tbody><tr><td>Receitas</td><td>R$ 169.440,69</td><td><span class="neg">R$ -22.114.075,26</span></td><td><span class="muted">—</span></td><td class="num"><span class="muted">—</span></td></tr><tr><td>Empenhado</td><td>R$ 499,97</td><td><span class="neg">R$ -279.671,15</span></td><td><span class="muted">—</span></td><td class="num"><span class="muted">—</span></td></tr><tr><td>Liquidado</td><td>R$ 727.685,42</td><td><span class="pos">+R$ 619.358,37</span></td><td><span class="muted">—</span></td><td class="num"><span class="muted">—</span></td></tr><tr><td>Pago</td><td>R$ 113,33</td><td><span class="pos">+R$ 113,33</span></td><td><span class="muted">—</span></td><td class="num"><span class="muted">—</span></td></tr><tr><td>Anulações</td><td>R$ 0,09</td><td><span class="pos">+R$ 0,09</span></td><td><span class="muted">—</span></td><td class="num"><span class="muted">—</span></td></tr><tr><td>Emendas (R$)</td><td>R$ 0,00</td><td><span class="muted">R$ 0,00</span></td><td><span class="muted">—</span></td><td class="num"><span class="muted">—</span></td></tr></tbody></table></div><p class="hint"><b>Últimos 7 snapshots</b></p><div class="tablewrap"><table><thead><tr><th>Data</th><th>Receitas</th><th>Empenhado</th><th class="num">Pago</th></tr></thead><tbody><tr><td>2026-11-06</td><td>R$ 0,00</td><td>R$ 13.100,00</td><td class="num">R$ 0,00</td></tr><tr><td>2026-11-09</td><td>R$ 0,00</td><td>R$ 64.802,07</td><td class="num">R$ 0,00</td></tr><tr><td>2026-11-10</td><td>R$ 0,00</td><td>R$ 46.885,22</td><td class="num">R$ 7.200,00</td></tr><tr><td>2026-11-11</td><td>R$ 22.283.515,95</td><td>R$ 280.171,12</td><td class="num">R$ 0,00</td></tr><tr><td>2026-11-12</td><td>R$ 169.440,69</td><td>R$ 499,97</td><td class="num">R$ 113,33</td></tr></tbody></table></div><p class="small">Histórico em <code>historico.jsonl</code> · 5 dia(s) registrado(s).</p></div></section>
+<section class="bloco "><div class="bloco-head"><span class="kicker">Qualidade e cobertura</span><h2>Saúde das fontes</h2></div><div class="panel panel-fontes" id="fontes"><div class="tablewrap"><table><thead><tr><th>Fonte</th><th class="num">Dados até</th></tr></thead><tbody><tr><td>Receitas</td><td class="num"><span class="badge ok">12/11/2026</span></td></tr><tr><td>Empenhos</td><td class="num"><span class="badge ok">12/11/2026</span></td></tr><tr><td>Liquidações</td><td class="num"><span class="badge ok">12/11/2026</span></td></tr><tr><td>Pagamentos</td><td class="num"><span class="badge ok">12/11/2026</span></td></tr></tbody></table></div><p class="small"><a href="https://angelojordy-svg.github.io/analise-contas-pmp/" target="_blank" rel="noopener">Dashboard PMP</a> · <a href="https://angelojordy-svg.github.io/tesouraria-parauapebas/" target="_blank" rel="noopener">Tesouraria</a> · <a href="https://angelojordy-svg.github.io/diario-parauapebas/" target="_blank" rel="noopener">Diário</a></p></div></section>
+  <footer><span>Fonte: Portal da Transparência (CSVs), Diário Oficial EDOMP (JSON), acompanhamento de emendas (xlsx) e Tesouraria (JSON). Valores líquidos de anulações. Dia de referência: 12/11/2026 · <a href="edicoes.html" target="_blank" rel="noopener">Edições e busca</a>.</span><span>Gerado em 13/11/2026 08:40 · resumo determinístico (0 token).</span></footer>
+</div>
+</body>
+</html>
