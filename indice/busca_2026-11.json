@@ -1492,5 +1492,230 @@
   "detalhe": "Receita · R$ 14.009,92",
   "arquivo": "Resumo Executivo PMP 2026-11-12.html",
   "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "uniao dos esportes radicais e cultur. altern. de parauapebas empenhado · r$ 314.890,00 · prefeitura",
+  "rotulo": "UNIÃO DOS ESPORTES RADICAIS E CULTUR. ALTERN. DE PARAUAPEBAS",
+  "detalhe": "Empenhado · R$ 314.890,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "wisley noe marques cardoso empenhado · r$ 25.139,09 · prefeitura",
+  "rotulo": "WISLEY NOE MARQUES CARDOSO",
+  "detalhe": "Empenhado · R$ 25.139,09 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "daiane da costa ferreira empenhado · r$ 20.126,22 · prefeitura",
+  "rotulo": "DAIANE DA COSTA FERREIRA",
+  "detalhe": "Empenhado · R$ 20.126,22 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "eder ramiro sa silva empenhado · r$ 15.258,13 · prefeitura",
+  "rotulo": "EDER RAMIRO SA SILVA",
+  "detalhe": "Empenhado · R$ 15.258,13 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "adao pereira dos santos empenhado · r$ 12.752,59 · prefeitura",
+  "rotulo": "ADAO PEREIRA DOS SANTOS",
+  "detalhe": "Empenhado · R$ 12.752,59 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "mustafe & borges ltda liquidado · r$ 327.889,10 · prefeitura",
+  "rotulo": "MUSTAFÉ & BORGES LTDA",
+  "detalhe": "Liquidado · R$ 327.889,10 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "uniao dos esportes radicais e cultur. altern. de parauapebas liquidado · r$ 314.890,00 · prefeitura",
+  "rotulo": "UNIÃO DOS ESPORTES RADICAIS E CULTUR. ALTERN. DE PARAUAPEBAS",
+  "detalhe": "Liquidado · R$ 314.890,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "sc comercio e assi. tecnica em apar. med. e odontologicos liquidado · r$ 294.042,00 · prefeitura",
+  "rotulo": "SC COMERCIO E ASSI. TECNICA EM APAR. MED. E ODONTOLOGICOS",
+  "detalhe": "Liquidado · R$ 294.042,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "equatorial para distrib. de energia s.a liquidado · r$ 280.900,49 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Liquidado · R$ 280.900,49 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "b l cardos eireli liquidado · r$ 250.090,00 · prefeitura",
+  "rotulo": "B L CARDOS EIRELI",
+  "detalhe": "Liquidado · R$ 250.090,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "j. h. b. imobiliaria vale dos carajas pago · r$ 25.000,00 · prefeitura",
+  "rotulo": "J. H. B. IMOBILIARIA VALE DOS CARAJAS",
+  "detalhe": "Pago · R$ 25.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "credor",
+  "texto": "central lima martins pago · r$ 10.707,20 · prefeitura",
+  "rotulo": "CENTRAL LIMA MARTINS",
+  "detalhe": "Pago · R$ 10.707,20 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "emenda",
+  "texto": "emenda 404 — leo marcio liquidacao · r$ 314.890,00 · prefeitura",
+  "rotulo": "Emenda 404 — Léo Márcio",
+  "detalhe": "Liquidação · R$ 314.890,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "emendas"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "emenda",
+  "texto": "emenda 404 — leo marcio empenho · r$ 314.890,00 · prefeitura",
+  "rotulo": "Emenda 404 — Léo Márcio",
+  "detalhe": "Empenho · R$ 314.890,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "emendas"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "pagamento",
+  "texto": "j. h. b. imobiliaria vale dos carajas pago (tesouraria) · r$ 25.000,00 · prefeitura",
+  "rotulo": "J. H. B. IMOBILIARIA VALE DOS CARAJAS",
+  "detalhe": "Pago (Tesouraria) · R$ 25.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "pagamento",
+  "texto": "central lima martins pago (tesouraria) · r$ 10.707,20 · prefeitura",
+  "rotulo": "CENTRAL LIMA MARTINS",
+  "detalhe": "Pago (Tesouraria) · R$ 10.707,20 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "pessoa",
+  "texto": "keslayane pires viana provimento em comissao de assessor parlamentar v; provimento comissionado de assessor · cmp · gabinete do vereador frederico damacena ribeiro sancao · portaria 522/2026",
+  "rotulo": "KESLAYANE PIRES VIANA",
+  "detalhe": "provimento em comissão de Assessor Parlamentar V; provimento comissionado de Assessor · CMP · Gabinete do Vereador Frederico Damacena Ribeiro Sanção · PORTARIA 522/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "pessoa",
+  "texto": "carlos eduardo reis provimento em comissao de assessor parlamentar v; provimento comissionado de assessor · cmp · gabinete da vereadora graciele coelho jacome de brito moreira · portaria 523/2026",
+  "rotulo": "CARLOS EDUARDO REIS",
+  "detalhe": "provimento em comissão de Assessor Parlamentar V; provimento comissionado de Assessor · CMP · Gabinete da Vereadora Graciele Coelho Jacome de Brito Moreira · PORTARIA 523/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "pessoa",
+  "texto": "ana paula sousa barboza fiscal de contrato do nº 20261114 · sehab · secretaria municipal de habitacao - sehab · portaria 233/2026",
+  "rotulo": "ANA PAULA SOUSA BARBOZA",
+  "detalhe": "Fiscal de Contrato do Nº 20261114 · SEHAB · Secretaria Municipal de Habitação - SEHAB · PORTARIA 233/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "pessoa",
+  "texto": "rosileide da silva sena; jose de arimatea da silva mendes fiscal do contrato · semmu · secretaria municipal da mulher – semmu · portaria 42/2026/semmu",
+  "rotulo": "Rosileide da Silva Sena; José de Arimatea da Silva Mendes",
+  "detalhe": "Fiscal do Contrato · SEMMU · Secretaria Municipal da Mulher – SEMMU · PORTARIA 42/2026/SEMMU",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj normal receita · r$ 27.768,08",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ Normal",
+  "detalhe": "Receita · R$ 27.768,08",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "rubrica",
+  "texto": "taxas de inspecao, controle e fiscalizacao - tlpl receita · r$ 19.373,78",
+  "rotulo": "Taxas de Inspeção, Controle e Fiscalização - TLPL",
+  "detalhe": "Receita · R$ 19.373,78",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "rubrica",
+  "texto": "imposto transmissao inter vivos bens imoveis e direitos - princ. receita · r$ 12.960,00",
+  "rotulo": "Imposto Transmissão Inter Vivos Bens Imóveis e Direitos - Princ.",
+  "detalhe": "Receita · R$ 12.960,00",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "rubrica",
+  "texto": "taxas de inspecao, controle e fiscalizacao - multa e jur. prin receita · r$ 5.295,83",
+  "rotulo": "Taxas de Inspeção, Controle e Fiscalização - Multa e jur. prin",
+  "detalhe": "Receita · R$ 5.295,83",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-13",
+  "tipo": "rubrica",
+  "texto": "multas - auto de infracao receita · r$ 4.976,71",
+  "rotulo": "Multas - Auto de Infração",
+  "detalhe": "Receita · R$ 4.976,71",
+  "arquivo": "Resumo Executivo PMP 2026-11-13.html",
+  "ancora": "contas-receitas"
  }
 ]
