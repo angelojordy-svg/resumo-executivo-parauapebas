@@ -1717,5 +1717,122 @@
   "detalhe": "Receita · R$ 4.976,71",
   "arquivo": "Resumo Executivo PMP 2026-11-13.html",
   "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "thalis de oliveira brandao empenhado · r$ 6.484,00 · prefeitura",
+  "rotulo": "THALIS DE OLIVEIRA BRANDÃO",
+  "detalhe": "Empenhado · R$ 6.484,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "eder junior sampaio araujo empenhado · r$ 2.814,35 · prefeitura",
+  "rotulo": "EDER JUNIOR SAMPAIO ARAUJO",
+  "detalhe": "Empenhado · R$ 2.814,35 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "antonio de oliveira empenhado · r$ 749,13 · prefeitura",
+  "rotulo": "ANTONIO DE OLIVEIRA",
+  "detalhe": "Empenhado · R$ 749,13 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "ronaldo da conceicao empenhado · r$ 400,00 · prefeitura",
+  "rotulo": "RONALDO DA CONCEIÇÃO",
+  "detalhe": "Empenhado · R$ 400,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "sc comercio e assi. tecnica em apar. med. e odontologicos liquidado · r$ 219.372,00 · prefeitura",
+  "rotulo": "SC COMERCIO E ASSI. TECNICA EM APAR. MED. E ODONTOLOGICOS",
+  "detalhe": "Liquidado · R$ 219.372,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "codetins inova simples (i.s.) liquidado · r$ 63.600,00 · prefeitura",
+  "rotulo": "CODETINS INOVA SIMPLES (I.S.)",
+  "detalhe": "Liquidado · R$ 63.600,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "pkf servicos de construcoes limitada liquidado · r$ 53.209,00 · prefeitura",
+  "rotulo": "PKF SERVIÇOS DE CONSTRUÇÕES LIMITADA",
+  "detalhe": "Liquidado · R$ 53.209,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "paula nayranda melo de sousa liquidado · r$ 51.261,09 · prefeitura",
+  "rotulo": "PAULA NAYRANDA MELO DE SOUSA",
+  "detalhe": "Liquidado · R$ 51.261,09 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "paulo roberto barbosa campos liquidado · r$ 46.850,43 · prefeitura",
+  "rotulo": "PAULO ROBERTO BARBOSA CAMPOS",
+  "detalhe": "Liquidado · R$ 46.850,43 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "credor",
+  "texto": "y a franco produtos e solucoes ltda pago · r$ 63.446,08 · prefeitura",
+  "rotulo": "Y A FRANCO PRODUTOS E SOLUCOES LTDA",
+  "detalhe": "Pago · R$ 63.446,08 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "pagamento",
+  "texto": "y a franco produtos e solucoes ltda pago (tesouraria) · r$ 63.446,08 · prefeitura",
+  "rotulo": "Y A FRANCO PRODUTOS E SOLUCOES LTDA",
+  "detalhe": "Pago (Tesouraria) · R$ 63.446,08 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - issqn - div.at receita · r$ 3.999,57",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - ISSQN - Dív.at",
+  "detalhe": "Receita · R$ 3.999,57",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-16",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj normal receita · r$ 1.185,31",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ Normal",
+  "detalhe": "Receita · R$ 1.185,31",
+  "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+  "ancora": "contas-receitas"
  }
 ]

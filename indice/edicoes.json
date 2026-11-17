@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-16",
+   "data_br": "16/11/2026",
+   "gerado_em": "17/11/2026 11:54",
+   "arquivo": "Resumo Executivo PMP 2026-11-16.html",
+   "destaques": [
+    "Diário Oficial: Nº 1487 (Normal) — 1 atos.",
+    "Receitas: R$ 5.184,88 (maior: Imposto sobre Serviços de Qualquer Natureza - ISSQN - Dív.at — R$ 3.999,57).",
+    "Empenhado: R$ 10.447,48."
+   ],
+   "metricas": {
+    "receitas": 5184.88,
+    "empenhado": 10447.48,
+    "liquidado": 598873.64,
+    "pago": 63446.08,
+    "anulacoes": 0.0,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 1
+   }
+  },
+  {
    "data": "2026-11-13",
    "data_br": "13/11/2026",
    "gerado_em": "16/11/2026 08:48",
