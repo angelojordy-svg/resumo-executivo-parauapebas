@@ -1834,5 +1834,302 @@
   "detalhe": "Receita · R$ 1.185,31",
   "arquivo": "Resumo Executivo PMP 2026-11-16.html",
   "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "anulacao",
+  "texto": "equatorial para distrib. de energia s.a empenhos anulado · r$ 483,55 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Empenhos anulado · R$ 483,55 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "daniela cardoso rosa empenhado · r$ 19.447,09 · prefeitura",
+  "rotulo": "DANIELA CARDOSO ROSA",
+  "detalhe": "Empenhado · R$ 19.447,09 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "equatorial para distrib. de energia s.a empenhado · r$ 8.578,31 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Empenhado · R$ 8.578,31 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "ana larissa pereira de sousa empenhado · r$ 3.600,00 · prefeitura",
+  "rotulo": "ANA LARISSA PEREIRA DE SOUSA",
+  "detalhe": "Empenhado · R$ 3.600,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "evanda chaves parreira machado empenhado · r$ 1.500,00 · prefeitura",
+  "rotulo": "EVANDA CHAVES PARREIRA MACHADO",
+  "detalhe": "Empenhado · R$ 1.500,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "davi lucas sousa gomes empenhado · r$ 450,00 · prefeitura",
+  "rotulo": "DAVI LUCAS SOUSA GOMES",
+  "detalhe": "Empenhado · R$ 450,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "equatorial para distrib. de energia s.a liquidado · r$ 54.542,58 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Liquidado · R$ 54.542,58 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "inss - instituto nacional do seguro social liquidado · r$ 31.398,86 · camara",
+  "rotulo": "INSS - INSTITUTO NACIONAL DO SEGURO SOCIAL",
+  "detalhe": "Liquidado · R$ 31.398,86 · Câmara",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "emporio a&c ltda liquidado · r$ 24.000,00 · saaep",
+  "rotulo": "EMPORIO A&C LTDA",
+  "detalhe": "Liquidado · R$ 24.000,00 · SAAEP",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "daniela cardoso rosa liquidado · r$ 19.447,09 · prefeitura",
+  "rotulo": "DANIELA CARDOSO ROSA",
+  "detalhe": "Liquidado · R$ 19.447,09 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "rosana fernandes gomes de figueiredo liquidado · r$ 8.500,00 · prefeitura",
+  "rotulo": "ROSANA FERNANDES GOMES DE FIGUEIREDO",
+  "detalhe": "Liquidado · R$ 8.500,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "credor",
+  "texto": "aluguel social - lajeado ii pago · r$ 600,00 · prefeitura",
+  "rotulo": "ALUGUEL SOCIAL - LAJEADO II",
+  "detalhe": "Pago · R$ 600,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "decreto",
+  "texto": "decreto 1914 exonera servidor de cargo comissionado",
+  "rotulo": "DECRETO 1914",
+  "detalhe": "Exonera servidor de cargo comissionado",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "decreto",
+  "texto": "decreto 1915 dispoe sobre nomeacao para cargo comissionado",
+  "rotulo": "DECRETO 1915",
+  "detalhe": "Dispõe sobre nomeação para cargo comissionado",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "decreto",
+  "texto": "decreto 1916 exonera servidor de cargo comissionado",
+  "rotulo": "DECRETO 1916",
+  "detalhe": "Exonera servidor de cargo comissionado",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "decreto",
+  "texto": "decreto 1917 dispoe sobre nomeacao para cargo comissionado",
+  "rotulo": "DECRETO 1917",
+  "detalhe": "Dispõe sobre nomeação para cargo comissionado",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "lei",
+  "texto": "lei 5.708 institui diretrizes para a politica municipal de incentivo ao primeiro emprego para jovens no municipio de parauapebas, e da outras providencias pmp",
+  "rotulo": "LEI 5.708",
+  "detalhe": "INSTITUI DIRETRIZES PARA A POLÍTICA MUNICIPAL DE INCENTIVO AO PRIMEIRO EMPREGO PARA JOVENS NO MUNICÍPIO DE PARAUAPEBAS, E DÁ OUTRAS PROVIDÊNCIAS PMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-leis"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1752/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1752/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1793/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1793/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1794/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1794/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1795/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1795/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1796/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1796/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1797/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1797/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1798/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1798/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "outro",
+  "texto": "portaria 1799/2026 semad/dp a secretaria de administracao semad",
+  "rotulo": "PORTARIA 1799/2026",
+  "detalhe": "SEMAD/DP A SECRETÁRIA DE ADMINISTRAÇÃO SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "pagamento",
+  "texto": "aluguel social - lajeado ii pago (tesouraria) · r$ 600,00 · prefeitura",
+  "rotulo": "ALUGUEL SOCIAL - LAJEADO II",
+  "detalhe": "Pago (Tesouraria) · R$ 600,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "pessoa",
+  "texto": "daniela dos santos sousa assessor especial viii · pmp · semsa · decreto 1914",
+  "rotulo": "Daniela dos Santos Sousa",
+  "detalhe": "Assessor Especial VIII · PMP · SEMSA · DECRETO 1914",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "pessoa",
+  "texto": "elielson moura pereira assessor especial ix · pmp · gabinete do prefeito · decreto 1916",
+  "rotulo": "Elielson Moura Pereira",
+  "detalhe": "Assessor Especial IX · PMP · Gabinete do Prefeito · DECRETO 1916",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "pessoa",
+  "texto": "joao ribeiro da cruz assessor especial viii · pmp · gabinete do prefeito · decreto 1915",
+  "rotulo": "João Ribeiro da Cruz",
+  "detalhe": "Assessor Especial VIII · PMP · Gabinete do Prefeito · DECRETO 1915",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "pessoa",
+  "texto": "suellen milhomens boy dias assessor especial ix · pmp · gabinete do prefeito · decreto 1917",
+  "rotulo": "Suellen Milhomens Boy Dias",
+  "detalhe": "Assessor Especial IX · PMP · Gabinete do Prefeito · DECRETO 1917",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "pessoa",
+  "texto": "rosileide da silva sena; jose de arimatea da silva mendes fiscal tecnico do contrato · semmu · secretaria municipal da mulher–semmu · portaria 43/2026/semmu",
+  "rotulo": "ROSILEIDE DA SILVA SENA; JOSÉ DE ARIMATEA DA SILVA MENDES",
+  "detalhe": "Fiscal Técnico do Contrato · SEMMU · Secretaria Municipal da Mulher–SEMMU · PORTARIA 43/2026/SEMMU",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "rubrica",
+  "texto": "amortizacao de emprestimos contratuais - principal receita · r$ 346,24",
+  "rotulo": "Amortização de Empréstimos Contratuais - Principal",
+  "detalhe": "Receita · R$ 346,24",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-17",
+  "tipo": "rubrica",
+  "texto": "outras restituicoes - principal receita · r$ 0,37",
+  "rotulo": "Outras Restituições - Principal",
+  "detalhe": "Receita · R$ 0,37",
+  "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+  "ancora": "contas-receitas"
  }
 ]

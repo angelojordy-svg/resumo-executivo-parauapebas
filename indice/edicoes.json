@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-17",
+   "data_br": "17/11/2026",
+   "gerado_em": "18/11/2026 09:10",
+   "arquivo": "Resumo Executivo PMP 2026-11-17.html",
+   "destaques": [
+    "Diário Oficial: Nº 1488 (Normal) — 29 atos (2 exonerados, 2 nomeados / contratados, 1 designação / comissão, 1 lei, 19 outros atos).",
+    "Receitas: R$ 346,61 (maior: Amortização de Empréstimos Contratuais - Principal — R$ 346,24).",
+    "Empenhado: R$ 35.880,65."
+   ],
+   "metricas": {
+    "receitas": 346.61,
+    "empenhado": 35880.65,
+    "liquidado": 148420.35,
+    "pago": 600.0,
+    "anulacoes": 483.55,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 29
+   }
+  },
+  {
    "data": "2026-11-16",
    "data_br": "16/11/2026",
    "gerado_em": "17/11/2026 11:54",
