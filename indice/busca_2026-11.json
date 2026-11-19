@@ -2278,12 +2278,381 @@
  },
  {
   "data": "2026-11-18",
+  "tipo": "outro",
+  "texto": "portaria 084/2026 altera a portaria interna nº 28/2026, de 25 de maio de 2026, para incluir atribuicoes relativas a editais e projetos secult",
+  "rotulo": "PORTARIA 084/2026",
+  "detalhe": "Altera a Portaria Interna nº 28/2026, de 25 de maio de 2026, para incluir atribuições relativas a editais e projetos SECULT",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "outro",
+  "texto": "portaria 85/2026 altera a portaria nº 29/2026, de 25 de maio de 2026, para incluir atribuicoes relativas a editais e projetos secult",
+  "rotulo": "PORTARIA 85/2026",
+  "detalhe": "Altera a Portaria nº 29/2026, de 25 de maio de 2026, para incluir atribuições relativas a editais e projetos SECULT",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-18",
   "tipo": "pagamento",
   "texto": "moises moraes costa pago (tesouraria) · r$ -56,00 · prefeitura",
   "rotulo": "MOISES MORAES COSTA",
   "detalhe": "Pago (Tesouraria) · R$ -56,00 · Prefeitura",
   "arquivo": "Resumo Executivo PMP 2026-11-18.html",
   "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "alciane de lima silva psicologo · semad · portaria 1814/2026/semad/dp",
+  "rotulo": "ALCIANE DE LIMA SILVA",
+  "detalhe": "PSICOLOGO · SEMAD · PORTARIA 1814/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "ana paula florindo da silva tec enfermagem · semad · portaria 1815/2026/semad/dp",
+  "rotulo": "ANA PAULA FLORINDO DA SILVA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1815/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "aurenir mourao lima tec · semad · portaria 1816/2026/semad/dp",
+  "rotulo": "AURENIR MOURAO LIMA",
+  "detalhe": "TEC · SEMAD · PORTARIA 1816/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "cirlene barbosa da silva agente com · semad · portaria 1817/2026/semad/dp",
+  "rotulo": "CIRLENE BARBOSA DA SILVA",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1817/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "dalila de oliveira tec · semad · portaria 1818/2026/semad/dp",
+  "rotulo": "DALILA DE OLIVEIRA",
+  "detalhe": "TEC · SEMAD · PORTARIA 1818/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "deivison cantao sacramento auxiliar · semad · portaria 1819/2026/semad/dp",
+  "rotulo": "DEIVISON CANTAO SACRAMENTO",
+  "detalhe": "AUXILIAR · SEMAD · PORTARIA 1819/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "edelciane de souza lima tec enfermagem · semad · portaria 1820/2026/semad/dp",
+  "rotulo": "EDELCIANE DE SOUZA LIMA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1820/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "eminelva lopes cardoso tec enfermagem · semad · portaria 1821/2026/semad/dp",
+  "rotulo": "EMINELVA LOPES CARDOSO",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1821/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "euseni da silva santos agente com · semad · portaria 1822/2026/semad/dp",
+  "rotulo": "EUSENI DA SILVA SANTOS",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1822/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "fabiana silva alves tec · semad · portaria 1823/2026/semad/dp",
+  "rotulo": "FABIANA SILVA ALVES",
+  "detalhe": "TEC · SEMAD · PORTARIA 1823/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "francinete batista de lima agente com · semad · portaria 1824/2026/semad/dp",
+  "rotulo": "FRANCINETE BATISTA DE LIMA",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1824/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "francisco sousa bezerra agente com · semad · portaria 1825/2026/semad/dp",
+  "rotulo": "FRANCISCO SOUSA BEZERRA",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1825/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "girlene ramos da silva tec · semad · portaria 1826/2026/semad/dp",
+  "rotulo": "GIRLENE RAMOS DA SILVA",
+  "detalhe": "TEC · SEMAD · PORTARIA 1826/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "jeane de lima costa uhl agente com · semad · portaria 1827/2026/semad/dp",
+  "rotulo": "JEANE DE LIMA COSTA UHL",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1827/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "jessica falcao viegas campos auxiliar · semad · portaria 1828/2026/semad/dp",
+  "rotulo": "JESSICA FALCAO VIEGAS CAMPOS",
+  "detalhe": "AUXILIAR · SEMAD · PORTARIA 1828/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "jocyanny celestino da silva sousa tec enfermagem · semad · portaria 1829/2026/semad/dp",
+  "rotulo": "JOCYANNY CELESTINO DA SILVA SOUSA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1829/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "jose clesio moraes da silva tec enfermagem · semad · portaria 1830/2026/semad/dp",
+  "rotulo": "JOSE CLESIO MORAES DA SILVA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1830/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "karita maximiano clemente marinho tec enfermagem · semad · portaria 1831/2026/semad/dp",
+  "rotulo": "KARITA MAXIMIANO CLEMENTE MARINHO",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1831/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "lorrane duarte reis pantoja enfermeiro · semad · portaria 1832/2026/semad/dp",
+  "rotulo": "LORRANE DUARTE REIS PANTOJA",
+  "detalhe": "ENFERMEIRO · SEMAD · PORTARIA 1832/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "lucia maria silva ferreira auxiliar · semad · portaria 1833/2026/semad/dp",
+  "rotulo": "LUCIA MARIA SILVA FERREIRA",
+  "detalhe": "AUXILIAR · SEMAD · PORTARIA 1833/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "manoel de mendonca ribeiro junior tec enfermagem · semad · portaria 1834/2026/semad/dp",
+  "rotulo": "MANOEL DE MENDONCA RIBEIRO JUNIOR",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1834/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "marcio jefferson alencar do nascimento assist · semad · portaria 1835/2026/semad/dp",
+  "rotulo": "MARCIO JEFFERSON ALENCAR DO NASCIMENTO",
+  "detalhe": "ASSIST · SEMAD · PORTARIA 1835/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "maria do socorro veras de sousa auxiliar · semad · portaria 1836/2026/semad/dp",
+  "rotulo": "MARIA DO SOCORRO VERAS DE SOUSA",
+  "detalhe": "AUXILIAR · SEMAD · PORTARIA 1836/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "maria jacilene caldas de sousa agente com · semad · portaria 1837/2026/semad/dp",
+  "rotulo": "MARIA JACILENE CALDAS DE SOUSA",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1837/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "maria zilda da conceicao sousa agente combate as endemias · semad · portaria 1838/2026/semad/dp",
+  "rotulo": "MARIA ZILDA DA CONCEICAO SOUSA",
+  "detalhe": "AGENTE COMBATE AS ENDEMIAS · SEMAD · PORTARIA 1838/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "marizete tavernard de lima tec enfermagem · semad · portaria 1839/2026/semad/dp",
+  "rotulo": "MARIZETE TAVERNARD DE LIMA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1839/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "milka regia sousa lopes enfermeiro · semad · portaria 1840/2026/semad/dp",
+  "rotulo": "MILKA REGIA SOUSA LOPES",
+  "detalhe": "ENFERMEIRO · SEMAD · PORTARIA 1840/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "nardelice pinto oliveira coelho tec enfermagem · semad · portaria 1841/2026/semad/dp",
+  "rotulo": "NARDELICE PINTO OLIVEIRA COELHO",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1841/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "rita cecilia ribeiro maia e maia fonoaudiologo · semad · portaria 1842/2026/semad/dp",
+  "rotulo": "RITA CECILIA RIBEIRO MAIA E MAIA",
+  "detalhe": "FONOAUDIOLOGO · SEMAD · PORTARIA 1842/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "roberto carlos cunha da silva agente com · semad · portaria 1843/2026/semad/dp",
+  "rotulo": "ROBERTO CARLOS CUNHA DA SILVA",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1843/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "rosicleia silva dos santos agente com · semad · portaria 1844/2026/semad/dp",
+  "rotulo": "ROSICLEIA SILVA DOS SANTOS",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1844/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "rozane pereira da silva tec enfermagem · semad · portaria 1845/2026/semad/dp",
+  "rotulo": "ROZANE PEREIRA DA SILVA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1845/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "sandra maria de lemos silva tec enfermagem · semad · portaria 1846/2026/semad/dp",
+  "rotulo": "SANDRA MARIA DE LEMOS SILVA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1846/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "sheila silene silva monteiro tec enfermagem · semad · portaria 1847/2026/semad/dp",
+  "rotulo": "SHEILA SILENE SILVA MONTEIRO",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1847/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "ulzilea costa da silva agente com · semad · portaria 1848/2026/semad/dp",
+  "rotulo": "ULZILEA COSTA DA SILVA",
+  "detalhe": "AGENTE COM · SEMAD · PORTARIA 1848/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "valderina da conceicao cunha moreira tec enfermagem · semad · portaria 1849/2026/semad/dp",
+  "rotulo": "VALDERINA DA CONCEICAO CUNHA MOREIRA",
+  "detalhe": "TEC ENFERMAGEM · SEMAD · PORTARIA 1849/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "anne jacquelinne lobato de amorim assist · semad · portaria 1850/2026/semad/dp",
+  "rotulo": "ANNE JACQUELINNE LOBATO DE AMORIM",
+  "detalhe": "ASSIST · SEMAD · PORTARIA 1850/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "carlos alexandre nogueira ribeiro tec · semad · portaria 1851/2026/semad/dp",
+  "rotulo": "CARLOS ALEXANDRE NOGUEIRA RIBEIRO",
+  "detalhe": "TEC · SEMAD · PORTARIA 1851/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pessoa",
+  "texto": "leiliane souza lira auxiliar · semad · portaria 1852/2026/semad/dp",
+  "rotulo": "LEILIANE SOUZA LIRA",
+  "detalhe": "AUXILIAR · SEMAD · PORTARIA 1852/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "diario-licenca"
  },
  {
   "data": "2026-11-18",
