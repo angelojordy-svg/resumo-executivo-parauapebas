@@ -2131,5 +2131,203 @@
   "detalhe": "Receita · R$ 0,37",
   "arquivo": "Resumo Executivo PMP 2026-11-17.html",
   "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "anulacao",
+  "texto": "moises moraes costa empenhos anulado · r$ 56,00 · prefeitura",
+  "rotulo": "MOISES MORAES COSTA",
+  "detalhe": "Empenhos anulado · R$ 56,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "anulacao",
+  "texto": "moises moraes costa liquidacoes anulado · r$ 56,00 · prefeitura",
+  "rotulo": "MOISES MORAES COSTA",
+  "detalhe": "Liquidações anulado · R$ 56,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "anulacao",
+  "texto": "moises moraes costa pagamentos anulado · r$ 56,00 · prefeitura",
+  "rotulo": "MOISES MORAES COSTA",
+  "detalhe": "Pagamentos anulado · R$ 56,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "adenilton dos santos gomes empenhado · r$ 168.083,03 · prefeitura",
+  "rotulo": "ADENILTON DOS SANTOS GOMES",
+  "detalhe": "Empenhado · R$ 168.083,03 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "carlos alberto queiroz pereira empenhado · r$ 20.689,15 · prefeitura",
+  "rotulo": "CARLOS ALBERTO QUEIROZ PEREIRA",
+  "detalhe": "Empenhado · R$ 20.689,15 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "equatorial para distrib. de energia s.a empenhado · r$ 10.933,04 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Empenhado · R$ 10.933,04 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "katiusce moura albuquerque empenhado · r$ 2.000,00 · prefeitura",
+  "rotulo": "KATIUSCE MOURA ALBUQUERQUE",
+  "detalhe": "Empenhado · R$ 2.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "luana silva guajajaras empenhado · r$ 810,50 · prefeitura",
+  "rotulo": "LUANA SILVA GUAJAJARAS",
+  "detalhe": "Empenhado · R$ 810,50 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "clinica de nefrologia de parauapebas liquidado · r$ 1.631.760,00 · prefeitura",
+  "rotulo": "CLINICA DE NEFROLOGIA DE PARAUAPEBAS",
+  "detalhe": "Liquidado · R$ 1.631.760,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "centro de apoio ao cidadao parauapebas - cacp liquidado · r$ 270.945,76 · prefeitura",
+  "rotulo": "CENTRO DE APOIO AO CIDADÃO PARAUAPEBAS - CACP",
+  "detalhe": "Liquidado · R$ 270.945,76 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "centro desportivo cultural e social popular liquidado · r$ 56.472,65 · prefeitura",
+  "rotulo": "CENTRO DESPORTIVO CULTURAL E SOCIAL POPULAR",
+  "detalhe": "Liquidado · R$ 56.472,65 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "andreia sampaio liquidado · r$ 23.500,00 · prefeitura",
+  "rotulo": "ANDREIA SAMPAIO",
+  "detalhe": "Liquidado · R$ 23.500,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "carlos alberto queiroz pereira liquidado · r$ 20.689,15 · prefeitura",
+  "rotulo": "CARLOS ALBERTO QUEIROZ PEREIRA",
+  "detalhe": "Liquidado · R$ 20.689,15 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "credor",
+  "texto": "moises moraes costa pago · r$ -56,00 · prefeitura",
+  "rotulo": "MOISES MORAES COSTA",
+  "detalhe": "Pago · R$ -56,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "emenda",
+  "texto": "emenda 360 — leandro do chiquito liquidacao · r$ 270.945,76 · prefeitura",
+  "rotulo": "Emenda 360 — Leandro do Chiquito",
+  "detalhe": "Liquidação · R$ 270.945,76 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "emendas"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "emenda",
+  "texto": "emenda 194 — maquivalda liquidacao · r$ 56.472,65 · prefeitura",
+  "rotulo": "Emenda 194 — Maquivalda",
+  "detalhe": "Liquidação · R$ 56.472,65 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "emendas"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "pagamento",
+  "texto": "moises moraes costa pago (tesouraria) · r$ -56,00 · prefeitura",
+  "rotulo": "MOISES MORAES COSTA",
+  "detalhe": "Pago (Tesouraria) · R$ -56,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "rubrica",
+  "texto": "cota-parte compensacao financeira recursos minerais cfem - princ. receita · r$ 39.324.785,94",
+  "rotulo": "Cota-Parte Compensação Financeira Recursos Minerais CFEM - Princ.",
+  "detalhe": "Receita · R$ 39.324.785,94",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj normal receita · r$ 86.242,51",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ Normal",
+  "detalhe": "Receita · R$ 86.242,51",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - simples nacional receita · r$ 79.844,79",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - Simples Nacional",
+  "detalhe": "Receita · R$ 79.844,79",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "rubrica",
+  "texto": "imposto sobre a propriedade predial e territorial urbana - princ. receita · r$ 48.508,45",
+  "rotulo": "Imposto sobre a Propriedade Predial e Territorial Urbana - Princ.",
+  "detalhe": "Receita · R$ 48.508,45",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-18",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj na fonte receita · r$ 24.648,89",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ na Fonte",
+  "detalhe": "Receita · R$ 24.648,89",
+  "arquivo": "Resumo Executivo PMP 2026-11-18.html",
+  "ancora": "contas-receitas"
  }
 ]
