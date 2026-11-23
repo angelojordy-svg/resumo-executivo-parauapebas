@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-20",
+   "data_br": "20/11/2026",
+   "gerado_em": "23/11/2026 09:13",
+   "arquivo": "Resumo Executivo PMP 2026-11-20.html",
+   "destaques": [
+    "Diário Oficial: Nº 1491 (Normal) · Nº 1492 (Extra) — 80 atos (24 exonerados, 26 nomeados / contratados, 2 atribuições, 1 designação / comissão, 2 revogações / sem efeito, 13 portarias/outros atos) — EDIÇÃO EXTRA (Nº 1492).",
+    "Receitas: sem movimento em 20/11/2026; último dia (19/11/2026): R$ 3.241.588,79.",
+    "Empenhado: sem movimento em 20/11/2026; último dia (19/11/2026): R$ 49.106,33."
+   ],
+   "metricas": {
+    "receitas": 0.0,
+    "empenhado": 0.0,
+    "liquidado": 0.0,
+    "pago": 0.0,
+    "anulacoes": 0.0,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 80
+   }
+  },
+  {
    "data": "2026-11-18",
    "data_br": "18/11/2026",
    "gerado_em": "19/11/2026 09:15",
