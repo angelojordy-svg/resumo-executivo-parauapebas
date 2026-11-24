@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-23",
+   "data_br": "23/11/2026",
+   "gerado_em": "24/11/2026 09:32",
+   "arquivo": "Resumo Executivo PMP 2026-11-23.html",
+   "destaques": [
+    "Diário Oficial: Nº 1493 (Normal) — 9 atos (9 revogações / sem efeito).",
+    "Receitas: R$ 104.505,72 (maior: Imposto sobre Serviços de Qualquer Natureza - Simples Nacional — R$ 104.505,72).",
+    "Empenhado: R$ 20.173,19."
+   ],
+   "metricas": {
+    "receitas": 104505.72,
+    "empenhado": 20173.19,
+    "liquidado": 0.0,
+    "pago": 0.0,
+    "anulacoes": 0.0,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 9
+   }
+  },
+  {
    "data": "2026-11-20",
    "data_br": "20/11/2026",
    "gerado_em": "23/11/2026 09:13",
