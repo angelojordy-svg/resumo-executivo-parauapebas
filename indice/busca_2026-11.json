@@ -3535,5 +3535,392 @@
   "detalhe": "Receita · R$ 104.505,72",
   "arquivo": "Resumo Executivo PMP 2026-11-23.html",
   "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "anulacao",
+  "texto": "folha de pagamento efetivos - fms empenhos anulado · r$ 10.889,65 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Empenhos anulado · R$ 10.889,65 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "anulacao",
+  "texto": "folha de pagamento efetivos - fms liquidacoes anulado · r$ 10.889,65 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Liquidações anulado · R$ 10.889,65 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "anulacao",
+  "texto": "folha de pagamento efetivos - fms pagamentos anulado · r$ 10.889,65 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Pagamentos anulado · R$ 10.889,65 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "anulacao",
+  "texto": "folha de pagamento efetivos - fms empenhos anulado · r$ 18,59 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Empenhos anulado · R$ 18,59 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "anulacao",
+  "texto": "folha de pagamento efetivos - fms liquidacoes anulado · r$ 18,59 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Liquidações anulado · R$ 18,59 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "anulacao",
+  "texto": "folha de pagamento efetivos - fms pagamentos anulado · r$ 18,59 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Pagamentos anulado · R$ 18,59 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "equatorial para distrib. de energia s.a empenhado · r$ 139.735,13 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Empenhado · R$ 139.735,13 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "prime consultoria e assessoria empresarial ltda empenhado · r$ 133.033,37 · camara",
+  "rotulo": "PRIME CONSULTORIA E ASSESSORIA EMPRESARIAL LTDA",
+  "detalhe": "Empenhado · R$ 133.033,37 · Câmara",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "nacional distribuidora ltda empenhado · r$ 64.466,80 · camara",
+  "rotulo": "NACIONAL DISTRIBUIDORA LTDA",
+  "detalhe": "Empenhado · R$ 64.466,80 · Câmara",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "y a franco produtos e solucoes ltda empenhado · r$ 52.699,20 · prefeitura",
+  "rotulo": "Y A FRANCO PRODUTOS E SOLUCOES LTDA",
+  "detalhe": "Empenhado · R$ 52.699,20 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "rayza sousa silva empenhado · r$ 30.479,57 · prefeitura",
+  "rotulo": "RAYZA SOUSA SILVA",
+  "detalhe": "Empenhado · R$ 30.479,57 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "equatorial para distrib. de energia s.a liquidado · r$ 139.735,13 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Liquidado · R$ 139.735,13 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "a l f silva & cia ltda liquidado · r$ 37.791,77 · prefeitura",
+  "rotulo": "A L F SILVA & CIA LTDA",
+  "detalhe": "Liquidado · R$ 37.791,77 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "rayza sousa silva liquidado · r$ 30.479,57 · prefeitura",
+  "rotulo": "RAYZA SOUSA SILVA",
+  "detalhe": "Liquidado · R$ 30.479,57 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "robson ney costa liquidado · r$ 23.860,83 · prefeitura",
+  "rotulo": "ROBSON NEY COSTA",
+  "detalhe": "Liquidado · R$ 23.860,83 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "vanessa cristian dos anjos e silva ribeiro liquidado · r$ 17.069,54 · prefeitura",
+  "rotulo": "VANESSA CRISTIAN DOS ANJOS E SILVA RIBEIRO",
+  "detalhe": "Liquidado · R$ 17.069,54 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "credor",
+  "texto": "folha de pagamento efetivos - fms pago · r$ -10.908,24 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Pago · R$ -10.908,24 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "decreto",
+  "texto": "decreto 1939 revoga o decreto nº 1852, de 28 de outubro de 2026, que altera o decreto nº 1846, de 21 de outubro de 2026, que nomeia messias silva marques",
+  "rotulo": "DECRETO 1939",
+  "detalhe": "Revoga o Decreto nº 1852, de 28 de outubro de 2026, que altera o Decreto nº 1846, de 21 de outubro de 2026, que nomeia Messias Silva Marques",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "decreto",
+  "texto": "decreto 1889 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1889",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "decreto",
+  "texto": "decreto 1890 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1890",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "decreto",
+  "texto": "decreto 1891 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1891",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "decreto",
+  "texto": "decreto 1892 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1892",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 360 pmp",
+  "rotulo": "PORTARIA 360",
+  "detalhe": "PMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 366 altera a portaria nº 345, de 27 de outubro de 2026, que exonera, a pedido, a servidora maria rita pereira da silva pmp",
+  "rotulo": "PORTARIA 366",
+  "detalhe": "Altera a Portaria nº 345, de 27 de outubro de 2026, que exonera, a pedido, a servidora Maria Rita Pereira da Silva PMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 367 pmp",
+  "rotulo": "PORTARIA 367",
+  "detalhe": "PMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 368 pmp",
+  "rotulo": "PORTARIA 368",
+  "detalhe": "PMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 370 assegura o pagamento de complementacao ao auxilio-doenca pago pelo inss a servidora silvia regina joao sefaz",
+  "rotulo": "PORTARIA 370",
+  "detalhe": "Assegura o pagamento de complementação ao auxílio-doença pago pelo INSS à servidora Silvia Regina Joao SEFAZ",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 1855/2026/semad/dp semad",
+  "rotulo": "PORTARIA 1855/2026/SEMAD/DP",
+  "detalhe": "SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 046/2026 comdcap dispoe sobre a nomeacao dos membros titulares e suplentes do comite de participacao de adolescentes – cpa, no ambito do conselho municipal dos direitos da crianca e do adol nao identificado",
+  "rotulo": "PORTARIA 046/2026",
+  "detalhe": "COMDCAP DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS TITULARES E SUPLENTES DO COMITÊ DE PARTICIPAÇÃO DE ADOLESCENTES – CPA, NO ÂMBITO DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOL Não identificado",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 83/2026 designacao de gestor de parceriadados da parceria unidade administrativa secretaria municipal de cultura entidade conveniada instituto de missoes de adoradores de parauapebas-pa cn secult",
+  "rotulo": "PORTARIA 83/2026",
+  "detalhe": "DESIGNAÇÃO DE GESTOR DE PARCERIADADOS DA PARCERIA UNIDADE ADMINISTRATIVA SECRETARIA MUNICIPAL DE CULTURA ENTIDADE CONVENIADA Instituto de Missões de Adoradores de Parauapebas-PA CN SECULT",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 529/2026 concede diarias ao servidor jardison james gomes da silva e silva e da outras providencias. o presidente da camara municipal de parauapebas cmp",
+  "rotulo": "PORTARIA 529/2026",
+  "detalhe": "CONCEDE DIÁRIAS AO SERVIDOR JARDISON JAMES GOMES DA SILVA E SILVA E DÁ OUTRAS PROVIDÊNCIAS. O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS CMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "outro",
+  "texto": "portaria 530/2026 concede diarias a servidora alane paula araujo e da outras providencias. o presidente da camara municipal de parauapebas cmp",
+  "rotulo": "PORTARIA 530/2026",
+  "detalhe": "CONCEDE DIÁRIAS À SERVIDORA ALANE PAULA ARAÚJO E DÁ OUTRAS PROVIDÊNCIAS. O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS CMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pagamento",
+  "texto": "folha de pagamento efetivos - fms pago (tesouraria) · r$ -10.908,24 · prefeitura",
+  "rotulo": "FOLHA DE PAGAMENTO EFETIVOS - FMS",
+  "detalhe": "Pago (Tesouraria) · R$ -10.908,24 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "mickaella sullivan bezerra dos santos auxiliar · semad · portaria 1856/2026/semad/dp",
+  "rotulo": "MICKAELLA SULLIVAN BEZERRA DOS SANTOS",
+  "detalhe": "AUXILIAR · SEMAD · PORTARIA 1856/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "izis mendes fick tecnico · semad · portaria 1857/2026/semad/dp",
+  "rotulo": "IZIS MENDES FICK",
+  "detalhe": "TECNICO · SEMAD · PORTARIA 1857/2026/SEMAD/DP",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "josafa alves dos santos operador de som · cmp · departamento de automacao · portaria 528/2026",
+  "rotulo": "JOSAFÁ ALVES DOS SANTOS",
+  "detalhe": "Operador de Som · CMP · Departamento de Automação · PORTARIA 528/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-licenca"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "monalisa odonay da silva soares professor · pmp · portaria 369",
+  "rotulo": "Monalisa Odonay da Silva Soares",
+  "detalhe": "Professor · PMP · PORTARIA 369",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "carlos felipe sassin frances fiscal de contrato do nº · sehab · secretaria municipal de habitacao- sehab · portaria 240/2026",
+  "rotulo": "CARLOS FELIPE SASSIN FRANCES",
+  "detalhe": "Fiscal de Contrato do Nº · SEHAB · Secretaria Municipal de Habitação- SEHAB · PORTARIA 240/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "barbara rodrigues severo; cleide francisca pardim paulino; edmilson de jesus barrozo barbosa fiscal do contrato; gestor da parceria e; suplente de parceria · semmu · secretaria municipal da mulher – semmu · portaria 44/2026/semmu",
+  "rotulo": "BARBARA RODRIGUES SEVERO; CLEIDE FRANCISCA PARDIM PAULINO; Edmilson de Jesus Barrozo Barbosa",
+  "detalhe": "Fiscal do Contrato; Gestor da parceria e; suplente de parceria · SEMMU · Secretaria Municipal da Mulher – SEMMU · PORTARIA 44/2026/SEMMU",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "joao pedro correa pereira gestor da parceria e; suplente de parceria · secult · secretaria municipal de cultura representara a secretaria municipal de cultura perante a o · portaria 82/2026",
+  "rotulo": "Joao Pedro Correa Pereira",
+  "detalhe": "Gestor da parceria e; suplente de parceria · SECULT · Secretaria Municipal de Cultura representará a Secretaria Municipal de Cultura perante a O · PORTARIA 82/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "rufino de jesus alves cmp · departamento de tecnologia da informacao e comunicacao · portaria 531/2026/designa",
+  "rotulo": "RUFINO DE JESUS ALVES",
+  "detalhe": "CMP · Departamento de Tecnologia da Informação e Comunicação · PORTARIA 531/2026/DESIGNA",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "messias silva marques diretor de escola · pmp · semed · decreto 1939",
+  "rotulo": "Messias Silva Marques",
+  "detalhe": "Diretor de Escola · PMP · SEMED · DECRETO 1939",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-revogacao"
+ },
+ {
+  "data": "2026-11-24",
+  "tipo": "pessoa",
+  "texto": "raimundo ferreira souza assessor especial das coordenadorias · pmp · semsi · decreto 1979",
+  "rotulo": "Raimundo Ferreira Souza",
+  "detalhe": "Assessor Especial das Coordenadorias · PMP · SEMSI · DECRETO 1979",
+  "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+  "ancora": "diario-revogacao"
  }
 ]

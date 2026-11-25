@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-24",
+   "data_br": "24/11/2026",
+   "gerado_em": "25/11/2026 08:54",
+   "arquivo": "Resumo Executivo PMP 2026-11-24.html",
+   "destaques": [
+    "Diário Oficial: Nº 1494 (Normal) · Nº 1495 (Extra) — 24 atos (3 licenças-prêmio, 5 designações / comissões, 2 revogações / sem efeito, 10 portarias/outros atos) — EDIÇÃO EXTRA (Nº 1495).",
+    "Receitas: sem movimento em 24/11/2026; último dia (23/11/2026): R$ 655.757,60.",
+    "Empenhado: R$ 478.576,72."
+   ],
+   "metricas": {
+    "receitas": 0.0,
+    "empenhado": 478576.72,
+    "liquidado": 277651.65,
+    "pago": -10908.24,
+    "anulacoes": 32724.72,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 24
+   }
+  },
+  {
    "data": "2026-11-23",
    "data_br": "23/11/2026",
    "gerado_em": "24/11/2026 09:32",
