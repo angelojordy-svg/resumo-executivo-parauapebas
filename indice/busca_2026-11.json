@@ -3922,5 +3922,248 @@
   "detalhe": "Assessor Especial das Coordenadorias · PMP · SEMSI · DECRETO 1979",
   "arquivo": "Resumo Executivo PMP 2026-11-24.html",
   "ancora": "diario-revogacao"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "leidimar costa caldas viana empenhado · r$ 6.484,00 · prefeitura",
+  "rotulo": "LEIDIMAR COSTA CALDAS VIANA",
+  "detalhe": "Empenhado · R$ 6.484,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "1º oficio de registro de imoveis de parauapebas empenhado · r$ 2.764,20 · prefeitura",
+  "rotulo": "1º OFICIO DE REGISTRO DE IMOVEIS DE PARAUAPEBAS",
+  "detalhe": "Empenhado · R$ 2.764,20 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "jucileia de sousa santos empenhado · r$ 400,00 · prefeitura",
+  "rotulo": "JUCILEIA DE SOUSA SANTOS",
+  "detalhe": "Empenhado · R$ 400,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "central de transporte de parauapebas liquidado · r$ 900.000,00 · prefeitura",
+  "rotulo": "CENTRAL DE TRANSPORTE DE PARAUAPEBAS",
+  "detalhe": "Liquidado · R$ 900.000,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "sc comercio e assi. tecnica em apar. med. e odontologicos liquidado · r$ 51.266,00 · prefeitura",
+  "rotulo": "SC COMERCIO E ASSI. TECNICA EM APAR. MED. E ODONTOLOGICOS",
+  "detalhe": "Liquidado · R$ 51.266,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "emporio a&c ltda liquidado · r$ 26.950,00 · saaep",
+  "rotulo": "EMPORIO A&C LTDA",
+  "detalhe": "Liquidado · R$ 26.950,00 · SAAEP",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "cooperativa de transportes rodoviario coletivo da palmares liquidado · r$ 21.034,00 · prefeitura",
+  "rotulo": "COOPERATIVA DE TRANSPORTES RODOVIARIO COLETIVO DA PALMARES",
+  "detalhe": "Liquidado · R$ 21.034,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "credor",
+  "texto": "cooperativa dos condutores autonomos de carajas - coopavel liquidado · r$ 13.672,10 · prefeitura",
+  "rotulo": "COOPERATIVA DOS CONDUTORES AUTONOMOS DE CARAJAS - COOPAVEL",
+  "detalhe": "Liquidado · R$ 13.672,10 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "lei",
+  "texto": "lei 5.709 dispoe sobre a insercao da referencia ao numero e ao ano do projeto de lei nas leis sancionadas e publicadas e de iniciativa do poder legislativo municipal e da outras providencias pmp",
+  "rotulo": "LEI 5.709",
+  "detalhe": "DISPÕE SOBRE A INSERÇÃO DA REFERÊNCIA AO NÚMERO E AO ANO DO PROJETO DE LEI NAS LEIS SANCIONADAS E PUBLICADAS E DE INICIATIVA DO PODER LEGISLATIVO MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS PMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-leis"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "outro",
+  "texto": "portaria 0221/2026/dispoe sobre a designacao de gestor e fiscal de contrato, e respectivo suplente, para a gestao e fiscalizacao de contrato de obras, em conformidade com a lei nº 14.133/2021, e da outras p semob",
+  "rotulo": "PORTARIA 0221/2026/DISPÕE",
+  "detalhe": "SOBRE A DESIGNAÇÃO DE GESTOR E FISCAL DE CONTRATO, E RESPECTIVO SUPLENTE, PARA A GESTÃO E FISCALIZAÇÃO DE CONTRATO DE OBRAS, EM CONFORMIDADE COM A LEI Nº 14.133/2021, E DÁ OUTRAS P SEMOB",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "outro",
+  "texto": "portaria 641 designa servidores para atuarem como gestor/fiscais do contrato nº 009.2026 que entre si fazem o servico autonomo de agua e esgoto de parauapebas - saaep e a empresa flb comercio l saaep",
+  "rotulo": "PORTARIA 641",
+  "detalhe": "DESIGNA SERVIDORES PARA ATUAREM COMO GESTOR/FISCAIS DO CONTRATO Nº 009.2026 QUE ENTRE SI FAZEM O SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO DE PARAUAPEBAS - SAAEP E A EMPRESA FLB COMERCIO L SAAEP",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "outro",
+  "texto": "portaria 533/2026 exonera os servidores que especifica do quadro funcional da camara municipal de parauapebas, e da outras providencias o presidente da camara municipal de parauapebas cmp",
+  "rotulo": "PORTARIA 533/2026",
+  "detalhe": "EXONERA OS SERVIDORES QUE ESPECIFICA DO QUADRO FUNCIONAL DA CÂMARA MUNICIPAL DE PARAUAPEBAS, E DÁ OUTRAS PROVIDÊNCIAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS CMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "outro",
+  "texto": "portaria 535/2026 nomeia os servidores que especifica do quadro funcional da camara municipal de parauapebas, e da outras providencias o presidente da camara municipal de parauapebas cmp",
+  "rotulo": "PORTARIA 535/2026",
+  "detalhe": "NOMEIA OS SERVIDORES QUE ESPECIFICA DO QUADRO FUNCIONAL DA CÂMARA MUNICIPAL DE PARAUAPEBAS, E DÁ OUTRAS PROVIDÊNCIAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS CMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "outro",
+  "texto": "portaria 537/2026 suspende o gozo de ferias da servidora que especifica, e da outras providencias o presidente da camara municipal de parauapebas cmp",
+  "rotulo": "PORTARIA 537/2026",
+  "detalhe": "SUSPENDE O GOZO DE FÉRIAS DA SERVIDORA QUE ESPECIFICA, E DÁ OUTRAS PROVIDÊNCIAS O PRESIDENTE DA CÂMARA MUNICIPAL DE PARAUAPEBAS CMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "m&n empreendimentos ltda pago (tesouraria) · r$ 329.644,80 · prefeitura",
+  "rotulo": "M&N EMPREENDIMENTOS LTDA",
+  "detalhe": "Pago (Tesouraria) · R$ 329.644,80 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "sc comercio e assi. tecnica em apar. med. e odontologicos pago (tesouraria) · r$ 231.146,00 · prefeitura",
+  "rotulo": "SC COMERCIO E ASSI. TECNICA EM APAR. MED. E ODONTOLOGICOS",
+  "detalhe": "Pago (Tesouraria) · R$ 231.146,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "equatorial para distrib. de energia s.a pago (tesouraria) · r$ 63.568,29 · prefeitura",
+  "rotulo": "EQUATORIAL PARÁ DISTRIB. DE ENERGIA S.A",
+  "detalhe": "Pago (Tesouraria) · R$ 63.568,29 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "softtec servicos de informatica ltda pago (tesouraria) · r$ 58.800,00 · prefeitura",
+  "rotulo": "SOFTTEC SERVIÇOS DE INFORMÁTICA LTDA",
+  "detalhe": "Pago (Tesouraria) · R$ 58.800,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "carvalho lima comercio servicos e manutencoes ltda pago (tesouraria) · r$ 57.305,00 · prefeitura",
+  "rotulo": "CARVALHO LIMA COMERCIO SERVIÇOS E MANUTENÇÕES LTDA",
+  "detalhe": "Pago (Tesouraria) · R$ 57.305,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "muiraquita empreendimentos ltda pago (tesouraria) · r$ 37.800,00 · prefeitura",
+  "rotulo": "MUIRAQUITÃ EMPREENDIMENTOS LTDA",
+  "detalhe": "Pago (Tesouraria) · R$ 37.800,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "d l locacoes e servicos ltda pago (tesouraria) · r$ 30.407,40 · prefeitura",
+  "rotulo": "D L LOCAÇÕES E SERVIÇOS LTDA",
+  "detalhe": "Pago (Tesouraria) · R$ 30.407,40 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pagamento",
+  "texto": "sabor e docura ltda pago (tesouraria) · r$ 18.501,00 · prefeitura",
+  "rotulo": "SABOR E DOCURA LTDA",
+  "detalhe": "Pago (Tesouraria) · R$ 18.501,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pessoa",
+  "texto": "uanderson costa silva assessor parlamentar v; provimento comissionado de assessor parlamentar · cmp · gabinete do vereador elias ferreira de almeida filho · portaria 532/2026",
+  "rotulo": "UANDERSON COSTA SILVA",
+  "detalhe": "Assessor Parlamentar V; provimento comissionado de Assessor Parlamentar · CMP · Gabinete do vereador Elias Ferreira de Almeida Filho · PORTARIA 532/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pessoa",
+  "texto": "bruno henrique moreira da costa assessor parlamentar v; provimento comissionado de assessor · cmp · gabinete do vereador elvis silva cruz · portaria 534/2026",
+  "rotulo": "BRUNO HENRIQUE MOREIRA DA COSTA",
+  "detalhe": "Assessor Parlamentar V; provimento comissionado de Assessor · CMP · Gabinete do vereador Elvis Silva Cruz · PORTARIA 534/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pessoa",
+  "texto": "igor da costa lima assessor parlamentar v; provimento comissionado de assessor parlamentar · cmp · gabinete do vereador elias ferreira de almeida filho · portaria 536/2026",
+  "rotulo": "IGOR DA COSTA LIMA",
+  "detalhe": "Assessor Parlamentar V; provimento comissionado de Assessor Parlamentar · CMP · Gabinete do Vereador Elias Ferreira de Almeida Filho · PORTARIA 536/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "pessoa",
+  "texto": "dave macleany santos gomes fiscal do contrato nº 20261133 · semel · gabinete do prefeito · portaria 128/2026",
+  "rotulo": "Dave Macleany Santos Gomes",
+  "detalhe": "Fiscal do Contrato nº 20261133 · SEMEL · Gabinete do Prefeito · PORTARIA 128/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-25",
+  "tipo": "rubrica",
+  "texto": "componente basico da assistencia farmaceutica - principal receita · r$ 206.707,40",
+  "rotulo": "Componente Básico da Assistência Farmacêutica - Principal",
+  "detalhe": "Receita · R$ 206.707,40",
+  "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+  "ancora": "contas-receitas"
  }
 ]

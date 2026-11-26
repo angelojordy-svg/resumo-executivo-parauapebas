@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-25",
+   "data_br": "25/11/2026",
+   "gerado_em": "26/11/2026 08:42",
+   "arquivo": "Resumo Executivo PMP 2026-11-25.html",
+   "destaques": [
+    "Diário Oficial: Nº 1496 (Normal) · Nº 1497 (Extra) — 10 atos (2 exonerados, 1 nomeado / contratado, 1 designação / comissão, 1 lei, 5 portarias/outros atos) — EDIÇÃO EXTRA (Nº 1497).",
+    "Receitas: R$ 206.707,40 (maior: Componente Básico da Assistência Farmacêutica - Principal — R$ 206.707,40).",
+    "Empenhado: R$ 9.648,20."
+   ],
+   "metricas": {
+    "receitas": 206707.4,
+    "empenhado": 9648.2,
+    "liquidado": 1036082.82,
+    "pago": 0.0,
+    "anulacoes": 0.0,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 10
+   }
+  },
+  {
    "data": "2026-11-24",
    "data_br": "24/11/2026",
    "gerado_em": "25/11/2026 08:54",
