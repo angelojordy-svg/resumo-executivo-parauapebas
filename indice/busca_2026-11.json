@@ -4165,5 +4165,464 @@
   "detalhe": "Receita · R$ 206.707,40",
   "arquivo": "Resumo Executivo PMP 2026-11-25.html",
   "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "elidiane santos pereira empenhos anulado · r$ 2.580,96 · prefeitura",
+  "rotulo": "ELIDIANE SANTOS PEREIRA",
+  "detalhe": "Empenhos anulado · R$ 2.580,96 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "elidiane santos pereira liquidacoes anulado · r$ 2.580,96 · prefeitura",
+  "rotulo": "ELIDIANE SANTOS PEREIRA",
+  "detalhe": "Liquidações anulado · R$ 2.580,96 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "elidiane santos pereira pagamentos anulado · r$ 2.580,96 · prefeitura",
+  "rotulo": "ELIDIANE SANTOS PEREIRA",
+  "detalhe": "Pagamentos anulado · R$ 2.580,96 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "pr-imprensa nacional empenhos anulado · r$ 269,28 · prefeitura",
+  "rotulo": "PR-IMPRENSA NACIONAL",
+  "detalhe": "Empenhos anulado · R$ 269,28 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "jose roberto lima silva empenhos anulado · r$ 138,18 · prefeitura",
+  "rotulo": "JOSE ROBERTO LIMA SILVA",
+  "detalhe": "Empenhos anulado · R$ 138,18 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "jose roberto lima silva liquidacoes anulado · r$ 138,18 · prefeitura",
+  "rotulo": "JOSE ROBERTO LIMA SILVA",
+  "detalhe": "Liquidações anulado · R$ 138,18 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "jose roberto lima silva pagamentos anulado · r$ 138,18 · prefeitura",
+  "rotulo": "JOSE ROBERTO LIMA SILVA",
+  "detalhe": "Pagamentos anulado · R$ 138,18 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "anulacao",
+  "texto": "jose roberto lima silva empenhos anulado · r$ 120,00 · prefeitura",
+  "rotulo": "JOSE ROBERTO LIMA SILVA",
+  "detalhe": "Empenhos anulado · R$ 120,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "anulacoes"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "inexp - instituto nacional de excelencia publica ltda empenhado · r$ 21.052,00 · camara",
+  "rotulo": "INEXP - INSTITUTO NACIONAL DE EXCELENCIA PUBLICA LTDA",
+  "detalhe": "Empenhado · R$ 21.052,00 · Câmara",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "katiusce moura albuquerque empenhado · r$ 12.500,00 · prefeitura",
+  "rotulo": "KATIUSCE MOURA ALBUQUERQUE",
+  "detalhe": "Empenhado · R$ 12.500,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "pr-imprensa nacional empenhado · r$ 3.545,52 · prefeitura",
+  "rotulo": "PR-IMPRENSA NACIONAL",
+  "detalhe": "Empenhado · R$ 3.545,52 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "caio fernandes alves empenhado · r$ 525,00 · prefeitura",
+  "rotulo": "CAIO FERNANDES ALVES",
+  "detalhe": "Empenhado · R$ 525,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "jose roberto lima silva empenhado · r$ -258,18 · prefeitura",
+  "rotulo": "JOSE ROBERTO LIMA SILVA",
+  "detalhe": "Empenhado · R$ -258,18 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-empenhado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "saude e vida remocoes de pacientes ltda - me liquidado · r$ 111.644,00 · prefeitura",
+  "rotulo": "SAUDE E VIDA REMOÇÕES DE PACIENTES LTDA - ME",
+  "detalhe": "Liquidado · R$ 111.644,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "farmausa pharmaceutical ltda liquidado · r$ 86.400,00 · prefeitura",
+  "rotulo": "FARMAUSA PHARMACEUTICAL LTDA",
+  "detalhe": "Liquidado · R$ 86.400,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "social pax carajas ltda liquidado · r$ 49.657,86 · prefeitura",
+  "rotulo": "SOCIAL PAX CARAJÁS LTDA",
+  "detalhe": "Liquidado · R$ 49.657,86 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "wc viagens e turismo ltda. liquidado · r$ 14.871,40 · prefeitura",
+  "rotulo": "WC VIAGENS E TURISMO LTDA.",
+  "detalhe": "Liquidado · R$ 14.871,40 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "katiusce moura albuquerque liquidado · r$ 12.500,00 · prefeitura",
+  "rotulo": "KATIUSCE MOURA ALBUQUERQUE",
+  "detalhe": "Liquidado · R$ 12.500,00 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-liquidado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "jose roberto lima silva pago · r$ -258,18 · prefeitura",
+  "rotulo": "JOSE ROBERTO LIMA SILVA",
+  "detalhe": "Pago · R$ -258,18 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "credor",
+  "texto": "elidiane santos pereira pago · r$ -2.580,96 · prefeitura",
+  "rotulo": "ELIDIANE SANTOS PEREIRA",
+  "detalhe": "Pago · R$ -2.580,96 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-pago"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "decreto",
+  "texto": "decreto 1918 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1918",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "decreto",
+  "texto": "decreto 1919 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1919",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "decreto",
+  "texto": "decreto 1920 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1920",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "decreto",
+  "texto": "decreto 1921 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1921",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "decreto",
+  "texto": "decreto 1922 homologa o resultado das avaliacoes de desempenho e concede progressao funcional",
+  "rotulo": "DECRETO 1922",
+  "detalhe": "Homologa o resultado das avaliações de desempenho e concede progressão funcional",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-decretos"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 371 pmp",
+  "rotulo": "PORTARIA 371",
+  "detalhe": "PMP",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 375 altera a portaria nº 566, de 24 de setembro de 2025, que designa servidores para compor a comissao geral de monitoramento e avaliacao das parcerias celebradas com organizacoes da s semad",
+  "rotulo": "PORTARIA 375",
+  "detalhe": "Altera a Portaria nº 566, de 24 de setembro de 2025, que designa servidores para compor a Comissão Geral de Monitoramento e Avaliação das Parcerias celebradas com Organizações da S SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1873/2026/semad/dp semad",
+  "rotulo": "PORTARIA 1873/2026/SEMAD/DP",
+  "detalhe": "SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1874/2026/semad/dp semad",
+  "rotulo": "PORTARIA 1874/2026/SEMAD/DP",
+  "detalhe": "SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1875/2026/semad/dp semad",
+  "rotulo": "PORTARIA 1875/2026/SEMAD/DP",
+  "detalhe": "SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1859/2026/semad/dp semad",
+  "rotulo": "PORTARIA 1859/2026/SEMAD/DP",
+  "detalhe": "SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1860/2026/semad/dp semad",
+  "rotulo": "PORTARIA 1860/2026/SEMAD/DP",
+  "detalhe": "SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1861/2026/semad/dp semad",
+  "rotulo": "PORTARIA 1861/2026/SEMAD/DP",
+  "detalhe": "SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1862/2026 semad/dp semad",
+  "rotulo": "PORTARIA 1862/2026",
+  "detalhe": "SEMAD/DP SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1863/2026 semad/dp semad",
+  "rotulo": "PORTARIA 1863/2026",
+  "detalhe": "SEMAD/DP SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1864/2026 semad/dp semad",
+  "rotulo": "PORTARIA 1864/2026",
+  "detalhe": "SEMAD/DP SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "outro",
+  "texto": "portaria 1865/2026 semad/dp semad",
+  "rotulo": "PORTARIA 1865/2026",
+  "detalhe": "SEMAD/DP SEMAD",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-outros"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pagamento",
+  "texto": "jose roberto lima silva pago (tesouraria) · r$ -258,18 · prefeitura",
+  "rotulo": "JOSE ROBERTO LIMA SILVA",
+  "detalhe": "Pago (Tesouraria) · R$ -258,18 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pagamento",
+  "texto": "elidiane santos pereira pago (tesouraria) · r$ -2.580,96 · prefeitura",
+  "rotulo": "ELIDIANE SANTOS PEREIRA",
+  "detalhe": "Pago (Tesouraria) · R$ -2.580,96 · Prefeitura",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "tesouraria"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "fabiana cristina moura dos santos assessor especial ix · pmp · gabinete do prefeito · decreto 1989",
+  "rotulo": "Fabiana Cristina Moura dos Santos",
+  "detalhe": "Assessor Especial IX · PMP · Gabinete do Prefeito · DECRETO 1989",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "mirelly azevedo paiva assessor especial ix · pmp · semas · decreto 1990",
+  "rotulo": "Mirelly Azevedo Paiva",
+  "detalhe": "Assessor Especial IX · PMP · SEMAS · DECRETO 1990",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "nelson nede ribeiro da silva assessor especial ix · pmp · gabinete do prefeito · decreto 1991",
+  "rotulo": "Nelson Nede Ribeiro da Silva",
+  "detalhe": "Assessor Especial IX · PMP · Gabinete do Prefeito · DECRETO 1991",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-exonerado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "waldilene de sousa rodrigues assessor especial ix · pmp · semas · decreto 1992",
+  "rotulo": "Waldilene de Sousa Rodrigues",
+  "detalhe": "Assessor Especial IX · PMP · SEMAS · DECRETO 1992",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "taynara oliveira silva assessor especial ix · pmp · semas · decreto 1993",
+  "rotulo": "Taynara Oliveira Silva",
+  "detalhe": "Assessor Especial IX · PMP · SEMAS · DECRETO 1993",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "janice oliveira pinho assessor especial ix · pmp · semas · decreto 1994",
+  "rotulo": "Janice Oliveira Pinho",
+  "detalhe": "Assessor Especial IX · PMP · SEMAS · DECRETO 1994",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-nomeado"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "erica de souza pecanha fiscal do contrato nº 20250187 · pmp · gabinete do prefeito · portaria 129/2026",
+  "rotulo": "Érica de Souza Peçanha",
+  "detalhe": "Fiscal do Contrato nº 20250187 · PMP · Gabinete do Prefeito · PORTARIA 129/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "eliene pereira silva fiscal de contrato do nº 20261114 · sehab · secretaria municipal de habitacao - sehab · portaria 242/2026",
+  "rotulo": "Eliene Pereira Silva",
+  "detalhe": "Fiscal de Contrato do Nº 20261114 · SEHAB · Secretaria Municipal de Habitação - SEHAB · PORTARIA 242/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "pessoa",
+  "texto": "francisca cleide freitas de araujo fiscal do contrato nº 20261162 · sejuv · secretaria municipal de juventude – sejuv · portaria 006/2026",
+  "rotulo": "Francisca Cleide Freitas de Araújo",
+  "detalhe": "Fiscal do Contrato nº 20261162 · SEJUV · Secretaria Municipal de Juventude – SEJUV · PORTARIA 006/2026",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "diario-designacao"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "rubrica",
+  "texto": "cota-parte do fundo especial do petroleo - fep - principal receita · r$ 447.012,56",
+  "rotulo": "Cota-Parte do Fundo Especial do Petróleo - FEP - Principal",
+  "detalhe": "Receita · R$ 447.012,56",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - simples nacional receita · r$ 48.478,82",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - Simples Nacional",
+  "detalhe": "Receita · R$ 48.478,82",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-receitas"
+ },
+ {
+  "data": "2026-11-26",
+  "tipo": "rubrica",
+  "texto": "imposto sobre servicos de qualquer natureza - pj normal receita · r$ 264,86",
+  "rotulo": "Imposto sobre Serviços de Qualquer Natureza - PJ Normal",
+  "detalhe": "Receita · R$ 264,86",
+  "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+  "ancora": "contas-receitas"
  }
 ]

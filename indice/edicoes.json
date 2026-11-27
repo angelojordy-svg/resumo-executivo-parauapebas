@@ -1,6 +1,27 @@
 {
  "edicoes": [
   {
+   "data": "2026-11-26",
+   "data_br": "26/11/2026",
+   "gerado_em": "27/11/2026 09:21",
+   "arquivo": "Resumo Executivo PMP 2026-11-26.html",
+   "destaques": [
+    "Diário Oficial: Nº 1498 (Normal) · Nº 1499 (Extra) — 56 atos (3 exonerados, 3 nomeados / contratados, 4 designações / comissões, 25 portarias/outros atos) — EDIÇÃO EXTRA (Nº 1499).",
+    "Receitas: R$ 495.756,24 (maior: Cota-Parte do Fundo Especial do Petróleo - FEP - Principal — R$ 447.012,56).",
+    "Empenhado: R$ 34.783,38."
+   ],
+   "metricas": {
+    "receitas": 495756.24,
+    "empenhado": 34783.38,
+    "liquidado": 307621.15,
+    "pago": -2839.14,
+    "anulacoes": 8786.7,
+    "emendas_valor": 0,
+    "emendas_qtd": 0,
+    "diario_atos": 56
+   }
+  },
+  {
    "data": "2026-11-25",
    "data_br": "25/11/2026",
    "gerado_em": "26/11/2026 08:42",
